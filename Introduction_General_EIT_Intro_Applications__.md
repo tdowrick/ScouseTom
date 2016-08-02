@@ -1,5 +1,7 @@
 #Introduction
 
 * General EIT Intro & Applications (brain/nerve)
-* Motivation - Requirements for lung EIT well defined, not so for brain/nerve/stroke etc. Existing systems not suitable - Swisstom, KHU etc.
-* Flexible/versatile system required – complete control over frequency, amplitude, switching time, protocol, signal processing, number of electrodes.
+
+The optimal measurement paradigm for EIT in human/rat brain has not been established. As such any EIT system for use in the head should be as versatile as possible, with features including: arbitrary control over current amplitude, frequency, injection time and protocol; variable number and type of electrodes (surface, depth, EEG) and custom data/signal processing, tailored to the particular application.
+
+
