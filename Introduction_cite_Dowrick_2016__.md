@@ -1,5 +1,3 @@
-#Introduction
+#Abstract
+Blah blah blah
 
-
-
-\cite{Dowrick_2016}
