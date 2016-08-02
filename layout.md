@@ -1,4 +1,5 @@
 Abstract_Blah_blah_blah__.md
+begin_table_begin_tabular_c__.tex
 Introduction_General_EIT_Intro_Applications__.md
 System_Design_Current_source_Switch__.md
 figures/ScouseTom/ScouseTom.png
