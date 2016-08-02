@@ -6,7 +6,7 @@
 * etc
 * etc
 
-##Results
+##Experimental Data
 * Rat stroke
 * Human stroke
 * Tank/phantom
