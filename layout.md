@@ -2,6 +2,6 @@ Abstract_Blah_blah_blah__.md
 Introduction_General_EIT_Intro_Applications__.md
 System_Design_Current_source_Switch__.md
 figures/ScouseTom/ScouseTom.png
-Results_Rat_stroke_Human_stroke__.md
+Results_System_Characterisation_Noise_Drift__.md
 figures/Haemo/Haemo.png
 figures/Haemo-dV/Haemo-dV.png
