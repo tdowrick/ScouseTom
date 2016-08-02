@@ -1,2 +1,1 @@
-h2_id_auto_label_subsection__.html
 h3_id_auto_label_subsubsection__.html
