@@ -1,1 +1,1 @@
-\label Rat Stroke Image
+\label{FigureA} Rat Stroke Image
