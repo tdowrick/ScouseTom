@@ -1,1 +1,1 @@
-Rat Stroke Image
+\label Rat Stroke Image
