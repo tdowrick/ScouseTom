@@ -1,2 +1,4 @@
 #System Design
-Current source > Switch network > EEG
+* Current source
+* Switch network
+* EEG
