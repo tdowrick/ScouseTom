@@ -7,7 +7,7 @@
 * etc
 
 ##Experimental Data
-* Rat stroke
+* Rat stroke \ref{FigureA}
 * Human stroke
 * Tank/phantom
 * Nerve
