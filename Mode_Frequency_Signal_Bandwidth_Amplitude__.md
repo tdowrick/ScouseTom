@@ -4,3 +4,5 @@
 |  Evoked Potentials 	|     2kHz    	|           2kHz          	|    50uA   	| Action potentials 	|
 |      Epilepsy      	|     2kHz    	| Slow - 10Hz Fast - 2kHz 	|    50uA   	|      EEG/ECoG     	|
 |        Nerve       	|     5kHz    	|           3kHz          	|    50uA   	| Action Potentials 	|
+
+\label{tab:Mode_table} Summary of experimental requirements
