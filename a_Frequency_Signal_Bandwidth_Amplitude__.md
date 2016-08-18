@@ -1,4 +1,4 @@
-|          a         |  Frequency  |     Signal Bandwidth    | Amplitude |            Extra Data           |
+|          Mode      |  Frequency  |     Signal Bandwidth    | Amplitude |            Extra Data           |
 |:------------------:|:-----------:|:-----------------------:|:---------:|:-------------------------------:|
 | Stroke/Head Injury | 100Hz-20kHz |   Frequency dependent   |    >1mA   | Contact impedance voltage drift |
 |  Evoked Potentials |     2kHz    |           2kHz          |    50uA   |        Action potentials        |
