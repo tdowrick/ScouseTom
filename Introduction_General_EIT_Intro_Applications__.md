@@ -10,4 +10,11 @@ A typical EIT system consists of a current source, voltage measurement unit, ele
 
 The optimal measurement paradigm for EIT in human/rat brain has not been established. As such any EIT system for use in the head should be as versatile as possible, with features including: arbitrary control over current amplitude, frequency, injection time and protocol; variable number and type of electrodes (surface, depth, EEG) and custom data/signal processing, tailored to the particular application.
 
+##Syste4m specs
+* EEG simultaneous
+* Low Freq w/ fine control
+* Versatile sig pro - different experimental paradigms
+* Simple to reconfigure mode of operation - software reconfigurable. elec platinastion, safety study (arb long injections), easy to connect and trigger off different things VEPs etc. OPEN SOURCE CODE
+* Easily reproducable - off the shelf parts, and open source hardware mix. Make a new one in days rather than months of redisgn. Compare cost/time investment to other DIY systems (KHU etc). SwissTom or other purchasable systems dont do what we want
+
 
