@@ -1,7 +1,7 @@
 #Introduction
 
 ## General EIT Intro & Applications (brain/nerve)
-Electrical Imepdance Tomography (EIT) is a medical imaging technique which reconstructs the internal conducitivty of an object from boundary measurements. Existing clincal uses of EIT include imaging the lung \cite{Frerichs_2000}, liver \cite{YOU_2009} and breast \cite{Halter}. EIT has also been proposed for imaging in peripheral nerves and in a number of applications in the brian, including epilepsy, acute stroke, traumatic brain injury and evoked potentials.
+Electrical Imepdance Tomography (EIT) is a medical imaging technique which reconstructs the internal conducitivty of an object from boundary measurements. Existing clincal uses of EIT include imaging the lung \cite{Frerichs_2000}, liver \cite{YOU_2009} and breast \cite{Halter}, and a number of EIT systems are now commercially available. EIT has also been proposed for imaging in peripheral nerves and in a number of applications in the brain, including epilepsy \cite{Vongerichten_2016}, \cite{Fabrizi_2006}, acute stroke \cite{Dowrick_2016}, traumatic brain injury and evoked potentials \cite{Aristovich_2016}. The ideal hardware requirements for these applications have not yet been identified and existing EIT systems, typically designed for imaging the organs of the torso, do not allow for full control over the appropriate experimental parameters (amplitude, frequency, data collection etc) to find the optimal experimental protocols.
 
 ## Existing EIT Systems (SwissTom, KHU, Dartmouth, UCL Mk 2.5 etc)
 
