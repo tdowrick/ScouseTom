@@ -2,7 +2,7 @@ abstract.md
 Abstract_I_am_writing_stuff__.md
 Introduction_Electrical_Impedance_Tomography_Electrical__.md
 Mode_Frequency_Signal_Bandwidth_Amplitude__.md
-label_tab_Mode_table_Summary_of__.tex
+begin_table_label_tab_table_requirments__.tex
 System_Design_The_ScouseTom_EIT__.md
 figures/Picture1/Picture1.png
 figures/ScouseTom/ScouseTom.png
