@@ -11,4 +11,4 @@ The optimal measurement paradigms for fast neural EIT and EIT of the head have n
 - Easily reproducible. Design and construction of a bespoke EIT system can take several months. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled within weeks.
 
 
-While each of the existing EIT system previously discussed are able to implement some of these requirements, none meet all of them, particularly that of simultaneous EEG recording and fine control over current amplitude and frequency.
+While each of the existing EIT system previously discussed are able to implement some of these requirements, none meet all of them.
