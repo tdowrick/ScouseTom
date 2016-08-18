@@ -18,11 +18,5 @@ The optimal measurement paradigms for fast neural EIT and EIT of the head have n
 - Reconfigurable modes of operation. The system should be as flexible as possible, to allow for new functionality to be introduced as a later date, if additional requirments or experimental methods are identified. Ideally, this should be acheiveable through software/firmware changes only.
 - Easily reproducible. Design and construction of a bespoke EIT system can take several months. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled within weeks.
 
-##Syste4m specs
-* EEG simultaneous - EEG and software
-* Low Freq w/ fine control and optional trigger phase control/ retriggering  - CS
-* Versatile sig pro - different experimental paradigms, change post hoc - EEG and software 
-* Simple to reconfigure mode of operation - software reconfigurable. elec platinastion, safety study (arb long injections), easy to connect and trigger off different things VEPs etc. OPEN SOURCE CODE - ALL
-* Easily reproducable - off the shelf parts, and open source hardware mix. Make a new one in days rather than months of redisgn. Compare cost/time investment to other DIY systems (KHU etc). SwissTom or other purchasable systems dont do what we want  - ALL - only 2 custom PCBs - schematics open source.
 
 While each of the existing EIT system previously discussed are able to implement some of these requirements, none meet all of them, particularly that of simultaneous EEG recording and fine control over current amplitude and frequency.
