@@ -12,7 +12,7 @@ The optimal measurement paradigm for EIT in human/rat brain has not been establi
 
 ##Syste4m specs
 * EEG simultaneous
-* Low Freq w/ fine control
+* Low Freq w/ fine control and optional trigger phase control/ retriggering
 * Versatile sig pro - different experimental paradigms
 * Simple to reconfigure mode of operation - software reconfigurable. elec platinastion, safety study (arb long injections), easy to connect and trigger off different things VEPs etc. OPEN SOURCE CODE
 * Easily reproducable - off the shelf parts, and open source hardware mix. Make a new one in days rather than months of redisgn. Compare cost/time investment to other DIY systems (KHU etc). SwissTom or other purchasable systems dont do what we want
