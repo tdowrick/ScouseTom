@@ -9,7 +9,9 @@ The Keithley 6221 current source is able to produce stable, low noise AC current
 
 ## Switch network/control/trigger interface
 
-
+triggers - control over phase/freq/ampltidue etc. retriggerable 
 
 ## EEG
 
+
+## 
