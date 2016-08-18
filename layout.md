@@ -2,6 +2,7 @@ abstract.md
 Abstract_I_am_writing_stuff__.md
 Introduction_General_EIT_Intro_Applications__.md
 System_Design_The_ScouseTom_EIT__.md
+figures/Picture1/Picture1.png
 figures/ScouseTom/ScouseTom.png
 Results_System_Characterisation_Noise_Drift__.md
 figures/Haemo/Haemo.png
