@@ -1,6 +1,6 @@
 abstract.md
-Introduction_Electrical_Impedance_Tomography_Electrical__.md
 Abstract_I_am_writing_stuff__.md
+Introduction_Electrical_Impedance_Tomography_Electrical__.md
 System_Design_The_ScouseTom_EIT__.md
 figures/Picture1/Picture1.png
 figures/ScouseTom/ScouseTom.png
