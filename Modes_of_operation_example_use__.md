@@ -1,5 +1,5 @@
 # Modes of operation/example use cases
-The ScouseTom system allows for software control over all aspects of the EIT measurement setup (protocol, injection duration, frequency, amplitude). Currently, there are four different modes of operation which are used.
+The ScouseTom system allows for software control over all aspects of the EIT measurement setup (protocol, injection duration, frequency, amplitude). At present, the experimental usage of the system can be divided into four categories.
 
 For 'standard' time difference EIT, multiple data sets are measured at different points in time, before and after the introduction of some perturbation.
 
