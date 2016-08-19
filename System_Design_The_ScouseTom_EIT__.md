@@ -16,7 +16,7 @@ triggers - control over phase/freq/ampltidue etc. stim pulses variable time/volt
 sw net - isolated and easily reconfigurable, and daisy chainable. SPI
 
 ## EEG
-
+An off the shelf solution for voltage recording, in the form of an EEG amplifier, was chosen. A number of systems are available which offer excellent performance.
 actichamp system used too - software same use open source libraries. versatiblity in data processing - can collect wide band data, or change after exp.
 
 ## Electrode Connectors
