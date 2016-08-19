@@ -1,1 +1,1 @@
-\label{nntankrec} Replace this text with your caption
+\label{nntankrec} Reconstruction
