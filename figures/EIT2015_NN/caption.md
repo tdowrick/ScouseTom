@@ -1,1 +1,1 @@
-\label{1}Replace this text with your caption
+\label{nntankrec} Replace this text with your caption
