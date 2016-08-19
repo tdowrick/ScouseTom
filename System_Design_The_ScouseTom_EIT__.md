@@ -1,6 +1,6 @@
 #System Design
 
-The ScouseTom EIT system consists of a current source (Keithley 6221), custom switch network & control circuitry, and EEG amplifer (BioSemi/actiCHamp/GTec). Time and frequency difference EIT data can be collected, at frequencies between 10Hz and 20kHz, with a frame rate > 100 per second achievable.
+The ScouseTom EIT system consists of a current source (Keithley 6221), custom switch network & control circuitry, and EEG amplifer including the BioSemi, actiCHamp and g.tec HIamp \ref{table_eeg}. Time and frequency difference EIT data can be collected, at frequencies between 10Hz and 20kHz, with a frame rate > 100 per second achievable.
 
 ## Current source
 
