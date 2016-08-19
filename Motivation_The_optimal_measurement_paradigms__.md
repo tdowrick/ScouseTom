@@ -8,7 +8,7 @@ The optimal measurement paradigms for fast neural EIT and EIT of the head have n
 - Variable electrode count. EIT experiments typically utilise between 16 and 128 electrodes, dependent on the application.
 - Ability to synchronise injection/recording with external triggers (whisker stiumlation, visual, auditory).
 - Reconfigurable modes of operation. The system should be as flexible as possible, to allow for new functionality to be introduced as a later date, if additional requirments or experimental methods are identified. Ideally, this should be acheiveable through software/firmware changes only.
-- Easily reproducible. Design and construction of a bespoke EIT system can take several months. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled within weeks.
+- Easily reproducible. Design and construction of a bespoke EIT system can take several months. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled in a matter of weeks.
 
 
 While each of the existing EIT system previously discussed are able to implement some of these requirements, none meet all of them.
