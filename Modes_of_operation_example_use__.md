@@ -1,9 +1,9 @@
-## Modes of operation/example use cases
+# Modes of operation/example use cases
 
-#'Normal' time difference EIT
+##'Normal' time difference EIT
 
-#Trigerred EIT 
+##Trigerred EIT 
 
-#Multi frequency EIT
+##Multi frequency EIT
 
-#Characterisation
+##Characterisation
