@@ -4,9 +4,8 @@ The ScouseTom EIT system consists of a current source (Keithley 6221), custom sw
 
 ## Current source
 
-The Keithley 6221 current source is able to produce stable, low noise AC currents in the range 2pA - 100mA, up to a frequency of 100kHz. [reference]
+The Keithley 6221 current source is able to produce stable, low noise AC currents in the range 2pA - 100mA, up to a frequency of 100kHz; supports external triggering and phase marking; and  is controllable via serial, USB and Ethernet connections. 
 
-retriggerable, phase marker stuff, 
 
 ## Switch network/control/trigger interface
 
