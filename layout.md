@@ -6,7 +6,6 @@ begin_table_centering_caption_Example__.tex
 System_Design_The_ScouseTom_EIT__.md
 begin_table_centering_caption_Summary__.tex
 Modes_of_operation_example_use__.md
-figures/Picture1/Picture1.png
 figures/ScouseTom/ScouseTom.png
 Results_System_Characterisation_Noise_Drift__.md
 figures/Haemo/Haemo.png
