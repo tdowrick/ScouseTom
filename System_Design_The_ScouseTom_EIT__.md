@@ -15,7 +15,7 @@ triggers - control over phase/freq/ampltidue etc. stim pulses variable time/volt
 
 sw net - isolated and easily reconfigurable, and daisy chainable. SPI
 
-## EEG - TO FINISH
+## Voltage recording - TO FINISH
 The requirements for voltage recording are parallel data collection, low noise and the ability to save data for offline processing. EEG amplifiers offer an effective off the shelf solution and a number of high performance systems are available \ref{table_eeg}.
 
 ## Electrode Connectors - TO DO
