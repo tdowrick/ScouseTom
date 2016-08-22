@@ -7,7 +7,7 @@ The ScouseTom EIT system consists of a current source (Keithley 6221) and commer
 The Keithley 6221 current source is able to produce stable, low noise AC currents in the range 2pA - 100mA, up to a frequency of 100kHz; supports external triggering and phase marking; and  is controllable via serial, USB and Ethernet connections.
 
 
-## Switch network/control/trigger interface - TO DO
+## Switch network/control/trigger interface - TO DO JAMES
 
 contoller - needed to be isolated from mains, had to switch quickly so hardware sol. triggers recorded via EEG system digital inputs. phase marker stuff
 
