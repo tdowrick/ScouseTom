@@ -6,7 +6,4 @@ The requirements for voltage recording are parallel data collection, low noise a
 DSUB used but often Custom connectors/PCBS required to connect system to common electrode interfaces or our own one in case of rat/nerve
 
 
-## Controller software - TO DO
 
-ASrduino - ubiquitous and not platform specific, portable to other devices
-Serial interface - all commands though this, current in matlab, but could be ported to any language.
