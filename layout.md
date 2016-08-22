@@ -1,5 +1,4 @@
 abstract.md
-Introduction_EIT_Existing_EIT_Hardware__.md
 Abstract_I_am_writing_stuff__.md
 Introduction_Electrical_Impedance_Tomography_Electrical__.md
 Motivation_The_optimal_measurement_paradigms__.md
