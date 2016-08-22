@@ -15,7 +15,8 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 * Triggered - EPs rat cortex (mayo), Epilepsy Anna V, VEPS Anna WW
 * MF - Rat Stroke, Nir Stroke, Tank (not yet)
 * Characterisation - Freq response isch, Mayo freq ep
-* 
+
+
 ##Experimental Data
 * Rat stroke \ref{FigureA} \ref{dV}
 * Human stroke
