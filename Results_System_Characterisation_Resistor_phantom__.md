@@ -11,7 +11,7 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 
 ##Modes/Experimental Data
 
-###Figures
+###Figure(s) showing:
 * convential EIT mode - Tanks \ref{nntankrec} , Rat stroke, Human Stroke (no images)
 * Triggered - EPs rat cortex (mayo), Epilepsy Anna V, VEPS Anna WW
 * MF - Rat Stroke, Nir Stroke, Tank (not yet)
