@@ -16,17 +16,3 @@ The current source is programmed via RS232 by the controller, with external trig
 Coded reference pulses from the controller are recorded by the EEG system and uses as reference during data processing. Pulses are sent to indicate the start and stop of current injection, the switching of electrode pairs, changing of injected frequency, stimulation triggers, and the out-of-compliance status of the current source. 
 
 The switch networks comprise two individual series of daisy chained ADG714 CMOS switches (*Analog Devices ref*), one each for the source and sink connections from the current source. The switch networks themselves can be daisy chained together, thus enabling current injection between any two electrodes from a total of 128. The switchboard is powered via lithium-ion polymer battery, and communicates with the controller through a digitally isolated SPI bus. The possible time between switching electrode injection pairs ranges from 100 uS to approximately 70 minutes for 128 channels, which is more than sufficient to meet the frame rate requirements all use cases. 
-
-
-## Voltage recording - TO FINISH
-The requirements for voltage recording are parallel data collection, low noise and the ability to save data for offline processing. EEG amplifiers offer an effective off the shelf solution and a number of high performance systems are available \ref{table_eeg}.
-
-## Electrode Connectors - TO DO
-
-DSUB used but often Custom connectors/PCBS required to connect system to common electrode interfaces or our own one in case of rat/nerve
-
-
-## Controller software - TO DO
-
-ASrduino - ubiquitous and not platform specific, portable to other devices
-Serial interface - all commands though this, current in matlab, but could be ported to any language.
