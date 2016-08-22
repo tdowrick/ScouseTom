@@ -6,7 +6,7 @@ The optimal measurement paradigms for fast neural EIT and EIT of the head have n
 - Parallel recording of all voltages for processing of data 'offline'. It is often beneficial to be able to extract additional signals, such as EEG/ECoG, from the recorded data, alongisde the EIT signal. In order to acheive this, raw voltage data should be recorded by the measurment system, on which application specific data and signal processing can be carried out.
 - Noise, frame rate and performance characeristics comparable to existing EIT systems.
 - Variable electrode count. EIT experiments typically utilise between 16 and 128 electrodes, dependent on the application.
-- Ability to synchronise injection/recording with external triggers (whisker stiumlation, visual, auditory).
+- Ability to synchronise injection/recording with external triggers (whisker stiumlation, visual, auditory). The phase of injected current should be randomised with respect to the stimulation, to minimise the phase related artefacts in EP recordings \cite{Aristovich_2015}
 - Reconfigurable modes of operation. The system should be as flexible as possible, to allow for new functionality to be introduced as a later date, if additional requirments or experimental methods are identified. Ideally, this should be acheiveable through software/firmware changes only.
 - Easily reproducible. Design and construction of a bespoke EIT system can take several months. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled in a matter of weeks.
 
