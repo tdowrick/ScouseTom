@@ -1,7 +1,7 @@
 #Results
 
 ##System Characterisation
-Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system Data was collected over **x** hours, with an **ykHZ** injection at **zAmps** **(ref figure)**. With average signal amplitude of **zzmV**, the mean noise value was **xx%/yymV** and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
+Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. A 32 channel phantom, developed by _SwissTom AG_, was used. Data was collected over **x** hours, with an **ykHZ** injection at **zAmps** **(ref figure)**. With average signal amplitude of **zzmV**, the mean noise value was **xx%/yymV** and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
 
 
 ###Figures
