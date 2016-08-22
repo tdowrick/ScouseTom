@@ -17,7 +17,7 @@ controller - needed to be isolated from mains, had to switch quickly so hardware
 
 triggers - control over phase/freq/ampltidue etc. stim pulses variable time/voltage/number
 
-The switch networks comprise two individual series of daisy chained ADG714 CMOS switches (*Analog Devices ref*), one each for the source and sink connections from the current source. The switch networks themselves can be daisy chained together, thus enabling current injection between any two electrodes from a total of 128. The switchboard is powered via lithium-ion polymer battery, and communicates with the controller through a digitally isolated SPI bus. 
+The switch networks comprise two individual series of daisy chained ADG714 CMOS switches (*Analog Devices ref*), one each for the source and sink connections from the current source. The switch networks themselves can be daisy chained together, thus enabling current injection between any two electrodes from a total of 128. The switchboard is powered via lithium-ion polymer battery, and communicates with the controller through a digitally isolated SPI bus. The possible time between switching electrode injection pairs ranges from 100 uS to approximately 70 minutes for 128 channels, which is more than sufficient to meet the frame rate requirements all use cases. 
 
 ## Voltage recording - TO FINISH
 The requirements for voltage recording are parallel data collection, low noise and the ability to save data for offline processing. EEG amplifiers offer an effective off the shelf solution and a number of high performance systems are available \ref{table_eeg}.
