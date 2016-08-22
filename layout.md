@@ -7,7 +7,7 @@ figures/ST Overview/ST Overview.png
 begin_table_centering_caption_Summary__.tex
 Modes_of_operation_example_use__.md
 figures/ScouseTom/ScouseTom.png
-Results_System_Characterisation_Noise_Drift__.md
+Results_System_Characterisation_Resistor_phantom__.md
 figures/EIT2015_NN/EIT2015_NN.png
 figures/Haemo/Haemo.png
 figures/Haemo-dV/Haemo-dV.png
