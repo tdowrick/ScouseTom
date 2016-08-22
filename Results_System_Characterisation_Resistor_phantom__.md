@@ -9,17 +9,14 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 * etc
 
 
-##Modes
+##Modes/Experimental Data
 
 ###Figures
-* 4 pane figure, showing example data:
+Figure(s) showing example data:
 * convential EIT mode - Tanks \ref{nntankrec} , Rat stroke, Human Stroke (no images)
 * Triggered - EPs rat cortex (mayo), Epilepsy Anna V, VEPS Anna WW
 * MF - Rat Stroke, Nir Stroke, Tank (not yet)
 * Characterisation - Freq response isch, Mayo freq ep
-
-
-##Experimental Data
 * Rat stroke - time difference data/some images maybe \ref{FigureA} \ref{dV}
 * Human stroke - time difference/multi frequency
 * Tank/phantom - images
