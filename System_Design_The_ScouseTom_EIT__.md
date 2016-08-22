@@ -9,7 +9,7 @@ The Keithley 6221 current source is able to produce stable, low noise AC current
 
 ## Switch network/control/trigger interface - TO DO JAMES
 
-The system controller is based upon the Arduino development platform (*ref*), specifically the Arduino Due, and two bespoke PCBs: a controller board or "shield" and a switch network board. The controller shield contains the additional circuitry required for isolating the communication with other components of the system, namely RS232 and trigger-link connections with the current source, TTL with the EEG systems, and SPI connection to the switch networks. 
+The system controller is based upon the Arduino development platform (*ref*), specifically the Arduino Due, and two bespoke PCBs: a controller board or "shield" and a switch network board. The controller shield contains the additional circuitry required for isolating the communication with other components of the system, namely RS232 and trigger-link connections with the current source, TTL with the EEG systems, and SPI connection to the switch networks. Due to the modular nature of the design and the variation of use cases, each connection was separately isolated from the mains to ensure correct isolation regardless of experimental setup.
 
 
 contoller - needed to be isolated from mains, had to switch quickly so hardware sol. triggers recorded via EEG system digital inputs. phase marker stuff
