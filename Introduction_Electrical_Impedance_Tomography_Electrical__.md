@@ -10,3 +10,5 @@ Existing EIT systems include the KHU \cite{Hun_Wi_2014} (16-64 electrodes, paral
 
 **need to mention tongin system from 2011 \cite{Oh2011} - has basic setup there**
 
+Low SNR and transient signals necessitate a different measurement paradigm for studying Evoked potentials, first developed by \cite{Oh2011}, wherein current is continously injected across repeated evoked potentials. Through coherent averaging, an impedance signal is obtained at each sample interval, yielding  millisecond resolution. 
+
