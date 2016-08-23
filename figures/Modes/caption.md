@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Modes} Examples of modes of operation of the ScouseTom EIT system. 
