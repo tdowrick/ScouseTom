@@ -6,7 +6,6 @@ The ScouseTom EIT system consists of a current source (Keithley 6221) and commer
 
 The Keithley 6221 current source is able to produce stable, low noise AC currents in the range 2pA - 100mA, up to a frequency of 100kHz; supports external triggering and phase marking; and is controllable via serial, USB and Ethernet connections.
 
-
 ## Controller and Switch network
 
 The system controller is based upon the Arduino development platform (*ref*), specifically the Arduino Due, and two bespoke PCBs: a controller board or "shield" (*ref in figure*) and a switch network board (*ref in figure*). The controller shield contains the additional circuitry required for isolating the communication with other components of the system, namely RS232 and trigger-link connections with the current source, TTL with the EEG systems, and SPI connection to the switch networks. Due to the modular nature of the design and the variation of use cases, each connection was separately isolated from the mains to ensure correct isolation regardless of experimental setup.
@@ -17,7 +16,6 @@ Coded reference pulses from the controller are recorded by the EEG system and us
 
 The switch networks comprise two individual series of daisy chained ADG714 CMOS switches (*Analog Devices ref*), one each for the source and sink connections from the current source. The switch networks themselves can be daisy chained together, thus enabling current injection between any two electrodes from a total of 128. The switchboard is powered via lithium-ion polymer battery, and communicates with the controller through a digitally isolated SPI bus. The possible time between switching electrode injection pairs ranges from 100 uS to approximately 70 minutes for 128 channels, which is more than sufficient to meet the frame rate requirements all use cases. 
 
-## Controller software - TO DO
+## Controller software
 
-ASrduino - ubiquitous and not platform specific, portable to other devices
-Serial interface - all commands though this, current in matlab, but could be ported to any language.
+Aside from its ubiquity and open source, the additional benefit of basing the controller on the Arduino platform is that it is not hardware specific. Thus porting the software to another device with different architecture is comparatively simple. Currently, the PC software for serial communication with the controller is written in Matlab (*matlab ref*), but the commands can be easily replicated in another language.
