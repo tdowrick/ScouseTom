@@ -3,7 +3,7 @@ Introduction_Electrical_Impedance_Tomography_Electrical__.md
 Motivation_The_optimal_measurement_paradigms__.md
 begin_table_centering_caption_Example__.tex
 System_Design_The_ScouseTom_EIT__.md
-Voltage_recording_TO_FINISH_The__.md
+Voltage_recording_The_requirements_for__.md
 figures/ST Overview/ST Overview.png
 begin_table_centering_caption_Summary__.tex
 Modes_of_operation_example_use__.md
