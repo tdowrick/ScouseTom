@@ -1,1 +1,1 @@
-\label{FigureA} Sample Image
+\label{FigureA} Stroke data and reconstruction
