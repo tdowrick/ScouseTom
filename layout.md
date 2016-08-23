@@ -11,5 +11,5 @@ figures/Modes/Modes.png
 figures/ScouseTom/ScouseTom.png
 Results_System_Characterisation_Resistor_phantom__.md
 figures/EIT2015_NN/EIT2015_NN.png
-figures/Haemo/Haemo.png
+figures/Haemo/Stroke_data_example.png
 Conclusions_Meets_criteria_set_out__.md
