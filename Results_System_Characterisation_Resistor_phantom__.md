@@ -11,7 +11,14 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 
 ##Modes/Experimental Data
 
-Each of the modes of operation previously described have been used in experimental settings. 'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} . Using 100\( \mu \)A at 2kHz and ~60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark.
+Each of the modes of operation previously described have been used in experimental settings. 'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} \ref{FigureStroke}. Using 100\( \mu \)A at 2kHz and ~60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark, after which voltage changes up to 20mV were observed.
+
+Evoked potentials
+
+Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke nit (HASU) at University College London Hospital (UCLH) **ref figure**. Stroke patients were fitted with 32 EEG electrodes **ref easycap**, and **x** injection pairs were used, with duraiton **y seconds**. Data was collected over a 30 minute period, at **x** frequencies between **y** and **zHz**, with amplitude **zmA**.
+
+Impedance spectrum measurements have been made with the ScouseTom system \cite{Dowrick_2015}, where low frequency (<3kHz) impedance measurments were made on healthy and ischameic rat brain \ref{FigureSweep}.
+
 ###1 figure/pane for each 'mode':
 * convential EIT mode - Tanks \ref{nntankrec} , Rat stroke, Human Stroke (no images)
 * Triggered - EPs rat cortex (mayo), Epilepsy Anna V, VEPS Anna WW
