@@ -11,6 +11,7 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 
 ##Modes/Experimental Data
 
+Each of the modes of operation previously described have been used in experimental settings. 'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} . Using 100\( \mu \)A at 2kHz and ~60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark.
 ###1 figure/pane for each 'mode':
 * convential EIT mode - Tanks \ref{nntankrec} , Rat stroke, Human Stroke (no images)
 * Triggered - EPs rat cortex (mayo), Epilepsy Anna V, VEPS Anna WW
