@@ -13,5 +13,6 @@ figures/Modes/Modes.png
 Results_System_Characterisation_Resistor_phantom__.md
 figures/EIT2015_NN/EIT2015_NN.png
 figures/Haemo/Stroke_data_example.png
+figures/Impedance_spectrum/Impedance_spectrum.png
 Conclusions_To_finish_A_new__.md
 Appendix_Hardware_Software_Resources_Software__.md
