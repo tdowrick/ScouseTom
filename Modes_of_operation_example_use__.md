@@ -1,7 +1,7 @@
 # Modes of operation/example use cases
 The ScouseTom system allows for software control over all aspects of the EIT measurement setup (protocol, injection duration, frequency, amplitude). At present, the experimental usage of the system can be divided into four categories fig \ref{Modes}.
 
-For 'standard' time difference EIT, multiple data sets are measured at different points in time, before and after the introduction of some perturbation.
+For 'standard' time difference EIT, multiple data sets are measured at different points in time, before and after the introduction of some perturbation. This is the most common method 
 
 Data collection can also be synchronised to an external stimulus (e.g. whisker stimulator in rats, of visual EPs in humans). The timing of the external trigger is captured using the digital input channels of the EEG recorder. This method, first developed by \cite{Oh2011} is used when impedance signals have low SNR and millisecond duration. Current is continuously injected, while the stimulus is repeated, generating multiple evoked potentials at different time points. Through coherent averaging, an impedance signal is obtained at each sample interval, yielding millisecond resolution. 
 
