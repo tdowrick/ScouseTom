@@ -3,7 +3,7 @@ The ScouseTom system allows for software control over all aspects of the EIT mea
 
 For 'standard' time difference EIT, multiple data sets are measured at different points in time, before and after the introduction of some perturbation.
 
-Data collection can also be synchronised to an external stimulus (e.g. whisker stimulator in rats, of visual EPs in humans). The timing of the external trigger is captured using the digital input channels of the EEG recorder.
+Data collection can also be synchronised to an external stimulus (e.g. whisker stimulator in rats, of visual EPs in humans). The timing of the external trigger is captured using the digital input channels of the EEG recorder. This method, first developed by \cite{Oh2011} is used when impedance signals have low SNR and millisecond duration. Current is continuously injected, while the stimulus is repeated, generating similar evoked potentials. Through coherent averaging, an impedance signal is obtained at each sample interval, yielding millisecond resolution. 
 
 Multi frequency EIT data can be collected at any combination of frequencies over the operating range. The ordering of frequencies can be fixed, or randomised and the injection period of each particular frequency can be specified. Composite waveforms, consisting of multiple frequencies, can also be generated.
 
