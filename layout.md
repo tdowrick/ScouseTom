@@ -1,4 +1,4 @@
-Abstract_I_am_writing_stuff__.md
+Abstract_A_highly_flexibly_EIT__.md
 Introduction_Electrical_Impedance_Tomography_Electrical__.md
 Motivation_The_optimal_measurement_paradigms__.md
 begin_table_centering_caption_Example__.tex
