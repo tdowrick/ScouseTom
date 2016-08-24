@@ -1,7 +1,3 @@
 #Abstract
-I am writing stuff with my hands
-
-**haaaaands**
-~hhhhaaaannndsndsndsnds~
-
+A highly flexibly EIT system, nicknamed the ScouseTom, has been developed. The system allows control over current amplitude, frequency, number of electrodes, injection protocol and data processing. A Keithley 6221 current source is used, along with a 24-bit EEG system for voltage recording. Custom PCBs interface with a PC to control the measurement process and electrode addressing. The performance of the system has been characterised using resistor phantoms and tanks, with figures of **xx**, **yy** and **zz**. The ScouseTom can perform time difference, triggered, and multi-frequency EIT along with impedance spectrum measurements and has been successfully used in a range of experiments, including the imaging of stroke, epilepsy, evoked potentials and nerve activity. The experimental procedure is controlled by software and new paradigms can be easily implemented. All of the hardware designs and software for the system have been open sourced, allowing for rapid replication.
 
