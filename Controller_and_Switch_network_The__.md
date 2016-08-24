@@ -14,3 +14,4 @@ Aside from its ubiquity and open source, the additional benefit of basing the co
 
 ## Data processing software  - to do
 MATLAB - select bandwidth, averaging etc
+Low pass filter for EEG
