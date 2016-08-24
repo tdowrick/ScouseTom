@@ -1,7 +1,3 @@
-#System Design
-
-The ScouseTom EIT system consists of a current source (Keithley 6221) and commercial EEG amplifier, alongside custom switching/control circuitry and software. Time and frequency difference EIT data can be collected, at frequencies between 10Hz and 20kHz, with a frame rate > 100 per second achievable.
-
 ## Controller and Switch network
 
 The system controller is based upon the Arduino development platform (*ref*), specifically the Arduino Due, and two bespoke PCBs: a controller board or "shield" (*ref in figure*) and a switch network board (*ref in figure*). The controller shield contains the additional circuitry required for isolating the communication with other components of the system, namely RS232 and trigger-link connections with the current source, TTL with the EEG systems, and SPI connection to the switch networks. Due to the modular nature of the design and the variation of use cases, each connection was separately isolated from the mains to ensure correct isolation regardless of experimental setup.
