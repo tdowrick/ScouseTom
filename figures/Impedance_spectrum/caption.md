@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{FigureSweep} Impedance spectrum of healthy and ischamic brain as measured with ScouseTom system.
