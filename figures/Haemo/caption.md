@@ -1,1 +1,1 @@
-\label{FigureA} Stroke data and reconstruction
+\label{FigureA} EIT data and image reconstruction for stroke experiment. Ten minutes of baseline data was recorded before stroke onset, indicated by the dotted vertical line.
