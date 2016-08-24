@@ -11,3 +11,6 @@ The switch networks comprise two individual series of daisy chained ADG714 CMOS 
 ## Controller software
 
 Aside from its ubiquity and open source, the additional benefit of basing the controller on the Arduino platform is that it is not hardware specific. Thus porting the software to another device with different architecture is comparatively simple. Currently, the PC software for serial communication with the controller is written in Matlab (*matlab ref*), but the commands can be easily replicated in another language.
+
+## Data processing software  - to do
+MATLAB - select bandwidth, averaging etc
