@@ -14,5 +14,5 @@ figures/ScouseTom/ScouseTom.png
 Results_System_Characterisation_Resistor_phantom__.md
 figures/EIT2015_NN/EIT2015_NN.png
 figures/Haemo/Stroke_data_example.png
-Conclusions_A_new_EIT_system__.md
+Conclusions_To_finish_A_new__.md
 Appendix_Hardware_Software_Resources_Software__.md
