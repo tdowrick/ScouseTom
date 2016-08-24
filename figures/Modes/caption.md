@@ -1,1 +1,1 @@
-\label{Modes} Examples of modes of operation of the ScouseTom EIT system. 
+\label{Modes} Modes of operation of the ScouseTom EIT system. Standard: Initial dataset collected at time T0, used as reference for subsequent datasets. Evoked Potentials: Current continuously injected simultaneous to multiple stimuli, with full dZ signal obtained through coherent averaging.
