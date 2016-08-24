@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{STOverview} Overview of the ScouseTom system. The two bespoke PCBs (highlighted) control program the current source, multiplex the current injection channels and randomise the stimulation trigger with respected to the injected phase. Voltages are recorded in parallel by the EEG system and stored on the PC for offline processing. 
