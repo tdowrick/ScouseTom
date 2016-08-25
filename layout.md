@@ -10,7 +10,7 @@ figures/ST Overview/ST Overview.png
 begin_table_centering_caption_Summary__.tex
 Modes_of_operation_example_use__.md
 figures/Modes/Modes.png
-Results_System_Characterisation_Resistor_phantom__.md
+Results_TO_DO_ADD_MAYOS__.md
 figures/EIT2015_NN/EIT2015_NN.png
 figures/Haemo/Stroke_data_example.png
 figures/Impedance_spectrum/Impedance_spectrum.png
