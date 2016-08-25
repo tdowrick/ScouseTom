@@ -7,6 +7,7 @@ subsection_Current_source_The_Keithley__.tex
 Controller_and_Switch_network_The__.md
 Voltage_recording_The_requirements_for__.md
 figures/ST Overview/ST Overview.png
+figures/Blocks/Blocks.svg
 begin_table_centering_caption_Summary__.tex
 Modes_of_operation_example_use__.md
 figures/Modes/Modes.png
