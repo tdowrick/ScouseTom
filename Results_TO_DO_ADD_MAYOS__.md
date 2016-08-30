@@ -2,7 +2,7 @@
 Ask mayo for best results with new ST system
 
 ##System Characterisation
-Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. A 32 channel phantom, \cite{griffiths1995cole}. Data was collected over **x** hours, with an **ykHZ** injection at **zAmps** **(ref figure)**. With average signal amplitude of **zzmV**, the mean noise value was **xx%/yymV** and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
+Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. The 32 channel cardiff phantom, \cite{griffiths1995cole}, configured to a purely resistive load.  Data was collected over **x** hours, with an **ykHZ** injection at **zAmps** **(ref figure)**. With average signal amplitude of **zzmV**, the mean noise value was **xx%/yymV** and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
 
 
 ###Figures
