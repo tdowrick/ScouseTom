@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{SNR} SNR over time
