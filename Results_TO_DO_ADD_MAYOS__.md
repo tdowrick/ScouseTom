@@ -2,7 +2,10 @@
 Ask mayo for best results with new ST system
 
 ##System Characterisation
-Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. The 32 channel cardiff phantom, \cite{griffiths1995cole}, configured to a purely resistive load.  Data was collected over **x** hours, with current injected at 2 kHz injection and 100 $\micro$ A, similar to that used during recordings on the human scalp.  With average signal amplitude of **zzmV**, the mean noise value was **xx%/yymV** and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
+Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. The 32 channel Cardiff phantom \cite{griffiths1995cole} was used, configured to a purely resistive load.  Data was collected over four hours, with current injected at 2 kHz and 100 $\micro$ A, for 100 ms per measurement, similar to that used during recordings on the human scalp.  The resulting average signal amplitude across 122 measurement combinations and 4235 repeats was 2.66 mV $\pm$ .24 mV standard deviation. The noise was considered across three time intervals: 100 repeats (approximately five minutes) representing a typical short term measurement, and one and four hours. These longer recordings replicate the use of the system both in Triggered mode, as well as long term monitoring applications \cite{fu2014use} \cite{some lung one}
+
+
+the mean noise value was **xx%/yymV** and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
 
 
 ###Figures
