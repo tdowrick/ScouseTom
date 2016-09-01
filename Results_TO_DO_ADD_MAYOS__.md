@@ -8,7 +8,8 @@ The mean noise value for 100 repeats was 0.356 $\mu$V $\pm$ .058 $\mu$V St. Dev.
 
 
 
-and drift was **xx%/yymV** over the entire period. The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
+
+The frequency response was measured over the range 1Hz-20kHz (**x** cycles at each frequency), with a current of **xxmA**. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
 
 
 ###Figures
