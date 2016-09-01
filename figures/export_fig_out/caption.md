@@ -1,1 +1,1 @@
-\label{SNR} SNR over time
+\label{SNR} SNR (mean and st. dev) of blocks of 100 measurements over 4 hour recording on Cardiff phantom
