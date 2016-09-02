@@ -6,6 +6,8 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 
 The mean noise value for 100 repeats was 0.356 $\mu$V $\pm$ .058 $\mu$V St. Dev., equivalent to 77.5 dB $\pm$ 1.3 dB SNR. As has been found with other EIT systems \cite{oh2007multi}, the long term noise increased, with 0.637 $\mu$V $\pm$ .064 $\mu$V or 72.4 dB $\pm$ 0.66 dB for one hour and 1.522 $\mu$V $\pm$ .205 $\mu$V or 64.9 dB $\pm$ 1.24 dB and four hour recordings. As the short term SNR was unchanged throughout the recording when considering consecutive blocks of 100 measurements \ref{SNR}, this decrease in SNR is a result of long term drifts from the baseline voltage. Over the course of the four hour recording the mean change in voltage was 5.61 $\mu$V $\pm$ 1.04 $\mu$V  or 0.21 % $\pm$ 0.04 %. These arise predominantly from temperature changes within the current source, and power supply voltage changes.
 
+## Frequency response
+
 The frequency response was measured over the range 20 Hz to 2 kHz (64 cycles at each frequency), with a current of 100 $\mu$ A. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
 
 
