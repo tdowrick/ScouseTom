@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{freqresp} Amplitude response of the ScouseTom system as recorded with the BioSemi and ActiChamp systems. *NEED ACTICHAMP DATA*
