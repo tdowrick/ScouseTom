@@ -8,12 +8,8 @@ The mean noise value for 100 repeats was 0.356 $\mu$V $\pm$ .058 $\mu$V St. Dev.
 
 ## Frequency response
 
-The frequency response was measured over the range 20 Hz to 2 kHz (64 cycles at each frequency), with a current of 100 $\mu$ A. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
+The frequency response was determined using two EEG systems, through measurements on a resistive phantom with a current of 100 $\mu$ A and 64 cycles at each frequency. Data was collected over a range 20 Hz to 2 kHz, for the BioSemi system and 20 to 20 kHz for the ActiChamp system. With a purely resistive test object, no change in voltage should be seen. The variation over the frequency range was **xxmV/yy%**.
 
-
-###Figures
-* Two frame plot showing drift measurment & frequency response.
-* etc
 
 
 ##Modes/Experimental Data
