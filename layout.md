@@ -13,6 +13,7 @@ Modes_of_operation_example_use__.md
 figures/Modes/Modes.png
 Results_TO_DO_ADD_MAYOS__.md
 figures/export_fig_out/SNR.png
+figures/freq_resp/freq_resp.png
 figures/Haemo/Stroke_data_example.png
 figures/Impedance_spectrum/Impedance_spectrum.png
 Discussion_Summary_of_results_Technical__.md
