@@ -4,4 +4,6 @@
 
 ## Technical issues
 
+EEG anti alisasing filter
+
 ## Recommendations for use
