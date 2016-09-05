@@ -17,5 +17,4 @@ figures/freq_resp/freq_resp.png
 figures/Haemo/Stroke_data_example.png
 figures/Impedance_spectrum/Impedance_spectrum.png
 Discussion_Summary_of_results_Technical__.md
-Conclusions_To_finish_A_new__.md
 Appendix_Hardware_Software_Resources_Software__.md
