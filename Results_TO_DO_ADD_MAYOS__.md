@@ -21,7 +21,7 @@ Each of the modes of operation previously described have been used in experiment
 
 Current was injected at 1.7 kHz with 50 $\mu$A amplitude, for 30 seconds across a single pair of electrodes and voltages on 127 electrodes were recorded in parallel using the ActiChamp ActiveTwo system with 25 kHz sampling rate. Coherent averaging was performed on 60 repeated stimuli, and demodulation was performed with 2 kHz bandwidth, yielding 1 ms time resolution. 
 
-Despite the 8-fold increase in bandwidth and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels. Significant impedance changes, figure \ref{EPDZ} ranged from 1.20 $\mu$V to 18.7 $\mu$V (mean 3.97 $\mu$V), equivalent to 3.13 to 33.0 (mean 8.86) SNR. 
+Despite the 8-fold increase in bandwidth and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels. Significant impedance changes, figure \ref{EP_DZ} ranged from 1.20 $\mu$V to 18.7 $\mu$V (mean 3.97 $\mu$V), equivalent to 3.13 to 33.0 (mean 8.86) SNR. 
 
 ### Multifrequency 
 
