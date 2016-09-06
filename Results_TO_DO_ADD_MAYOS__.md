@@ -19,7 +19,7 @@ Each of the modes of operation previously described have been used in experiment
 
 ### Evoked potentials
 
-The resultant impedance change demodulating bandwidth is comparable to previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels. Significant impedance changes ranged from 1.20 $\mu$V to 18.7 $\mu$V (mean 3.97 $\mu$V), equivalent to 3.13 to 33.0 (mean 8.86) SNR. Increasing the bandwidth to 2 kHz as allowing 
+Despite the 8-fold increase in bandwidth, and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels. Significant impedance changes ranged from 1.20 $\mu$V to 18.7 $\mu$V (mean 3.97 $\mu$V), equivalent to 3.13 to 33.0 (mean 8.86) SNR. 
 
 ### Multifrequency 
 
