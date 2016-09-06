@@ -51,7 +51,7 @@ Despite the 8-fold increase in bandwidth and consequent noise increase, the perf
 
 ### Characterisation
 
-Data was calculated ate each frequency \ref{FigureSweep}. ** TOM TO ADD MORE**
+Data was calculated ate each frequency \ref{FigureSweep}. **TOM TO ADD MORE**
 
 ###1 figure/pane for each 'mode':
 * convential EIT mode - Tanks \ref{nntankrec} , Rat stroke, Human Stroke (no images)
