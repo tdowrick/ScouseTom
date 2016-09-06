@@ -14,7 +14,7 @@ The frequency response was determined using two EEG systems, through measurement
 
 Each of the modes of operation previously described have been used in experimental settings. 
 
-### Time difference
+### Time difference - NEED MORE INFO HERE NOISE ETC
 'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} \ref{FigureStroke}. Using 100\( \mu \)A at 2kHz and ~60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark, after which voltage changes up to 20mV were observed.
 
 ### Evoked potentials
