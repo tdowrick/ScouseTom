@@ -19,7 +19,7 @@ Each of the modes of operation previously described have been used in experiment
 
 ### Evoked potentials
 
-The resultant impedance change demodulating with 250 Hz bandwidth is comparable to previous systems \cite{oh2011} with 0.168 $\mu$V $\pm$ 0.041 $\mu$V noise across all channels. Significant impedance changes ranged from 0.51 $\mu$V to 14.1 $\mu$V (mean 2.62 $\mu$V), equivalent to 3.04 to 32.0 (mean 10.6) SNR. 
+The resultant impedance change demodulating with 250 Hz bandwidth is comparable to previous systems \cite{Oh2011} with 0.168 $\mu$V $\pm$ 0.041 $\mu$V noise across all channels. Significant impedance changes ranged from 0.51 $\mu$V to 14.1 $\mu$V (mean 2.62 $\mu$V), equivalent to 3.04 to 32.0 (mean 10.6) SNR. 
 
 ### Multifrequency 
 
