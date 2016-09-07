@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{EP_Rec} blah blah
