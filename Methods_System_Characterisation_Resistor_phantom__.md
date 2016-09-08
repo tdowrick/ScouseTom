@@ -53,17 +53,4 @@ Despite the 8-fold increase in bandwidth and consequent noise increase, the perf
 
 Data was calculated ate each frequency \ref{FigureSweep}. **TOM TO ADD MORE**
 
-###1 figure/pane for each 'mode':
-* convential EIT mode - Tanks \ref{nntankrec} , Rat stroke, Human Stroke (no images)
-* Triggered - EPs rat cortex (mayo), Epilepsy Anna V, VEPS Anna WW
-* MF - Rat Stroke, Nir Stroke, Tank (not yet)
-* Characterisation - Freq response isch, Mayo freq ep
-* Rat stroke - time difference data/some images maybe \ref{FigureA} \ref{dV}
-* Human stroke - time difference/multi frequency
-* Tank/phantom - images
-* Nerve - EIT & Action potential
-* Epilepsy -EIT & EEG
-* Frequency response
-
-
 
