@@ -12,13 +12,13 @@ The frequency response was determined using two EEG systems, through measurement
 Each of the modes of operation previously described have been used in experimental settings. 
 
 ### Time difference
-'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} figure \ref{FigureStroke}. Using 100\( \mu \)A at 2kHz and ~60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark, which was expected to cause a net impedance decrease.
+'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} figure \ref{FigureStroke}. Using 100\( \mu \)A at 2kHz and c. 60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark, which was expected to cause a net impedance decrease.
 
 ### Triggered
 
 The ScouseTom system was utilised in measurements of evoked activity in the rat somatosensory cortex, following electrical stimulation of the forepaw. The method used closely follows that detailed in \cite{Aristovich_2016} \cite{Vongerichten_2016}, with an increased number of electrodes, from 32 on a single hemisphere to 128 with 64 on each hemisphere. The stimuli delivered were 10 mA pulses 1 ms duration at a rate of 2 Hz, triggered by the ScouseTom controller.
 
-Current was injected at 1.7 kHz with 50 $\mu$A amplitude, for 30 seconds across a single pair of electrodes and voltages on 127 electrodes were recorded in parallel using the ActiChamp ActiveTwo system with 25 kHz sampling rate. Coherent averaging was performed on 60 repeated stimuli, and demodulation was performed with 2 kHz bandwidth, yielding 1 ms time resolution. 
+Current was injected at 1.7 kHz with 50 $\mu$A amplitude, for 30 seconds across a pair of electrodes, with voltages on 127 electrodes recorded in parallel using the ActiChamp ActiveTwo system with 25 kHz sampling rate. Coherent averaging was performed on 60 repeated stimuli, and demodulation was performed with 2 kHz bandwidth, yielding 1 ms time resolution. This process was repeated over c. 50 pairs on injection electrodes
 
 ### Multifrequency 
 
