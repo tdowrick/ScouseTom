@@ -16,7 +16,7 @@ figures/export_fig_out/SNR.png
 figures/freq_resp/freq_resp.png
 figures/Haemo/Stroke_data_example.png
 figures/EP_dz/EP_dz.png
-figures/mayorec.0006/q2.png
+figures/mayorec.0006/q1.png
 figures/Impedance_spectrum/Impedance_spectrum.png
 Discussion_A_new_EIT_system__.md
 Appendix_Hardware_Software_Resources_Software__.md
