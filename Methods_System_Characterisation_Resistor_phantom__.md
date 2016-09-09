@@ -22,7 +22,7 @@ Current was injected at 1.7 kHz with 50 $\mu$A amplitude, for 30 seconds across 
 
 ### Multifrequency 
 
-Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH) **ref figure**. Stroke patients were fitted with 32 EEG electrodes **ref easycap**, and **x** injection pairs were used, with duration **y seconds**. Data was collected over a 30 minute period, at **x** frequencies between **y** and **zHz**, with amplitude **zmA**.
+Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH) **ref figure**. Stroke patients were fitted with 32 commercial EEG electrodes (EasyCap, Germany, www.easycap.de) in a modified , and **x** injection pairs were used, with duration **y seconds**. Data was collected over a 30 minute period, at **x** frequencies between **y** and **zHz**, with amplitude **zmA**.
 
 ### Characterisation
 
