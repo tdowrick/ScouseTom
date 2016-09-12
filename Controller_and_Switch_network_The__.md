@@ -14,8 +14,8 @@ Aside from its ubiquity and open source code, the additional benefit of basing t
 
 ## Data processing software
 
+With conventional EIT systems demodulation of the AC signal is performed in hardware, and only the averaged value for each short injection is transmitted and stored in the PC, and the user has little control over the parameters used during processing. Whilst it is possible to alter the firmware for research devices such as the KHU \cite{Hun_Wi_2014} and UCLH \cite{McEwan_2006}, technical constraints such as on-board RAM and limited processing time heavily reduce the versatility of these systems. 
+
+As the ScouseTom system stores the continuous modulated voltages via an EEG system, the demodulation and data processing must be implemented in PC software after the experiment. The processing software is written in Matlab, employing Zero-phase IIR band pass filtering and the Hilbert transform to produce the envelope and phase of the amplitude modulated signal. The simultaneous EEG signal is obtained simply through low pass filtering the recorded signal. This also allows the user control over all the parameters during demodulation and averaging, demodulation method, centre frequency, bandwidth, filter type etc. This versatility is necessary to process data in EP studies, when the system is used in Triggered mode, as the measurement time is orders of magnitude longer than that of conventional EIT, and the synchronised EEG signal is essential. 
 
 
-
-MATLAB - select bandwidth, averaging etc
-Low pass filter for EEG
