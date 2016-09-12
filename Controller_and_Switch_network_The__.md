@@ -6,11 +6,11 @@ The current source is programmed via RS232 by the controller, with external trig
 
 Coded reference pulses from the controller are recorded by the EEG system and uses as reference during data processing. Pulses are sent to indicate the start and stop of current injection, the switching of electrode pairs, changing of injected frequency, stimulation triggers, and the out-of-compliance status of the current source. 
 
-The switch networks comprise two individual series of daisy chained ADG714 CMOS switches (*Analog Devices ref*), one each for the source and sink connections from the current source. The switch networks themselves can be daisy chained together, thus enabling current injection between any two electrodes from a total of 128. The switchboard is powered via lithium-ion polymer battery, and communicates with the controller through a digitally isolated SPI bus. The possible time between switching electrode injection pairs ranges from 100 uS to approximately 70 minutes for 128 channels, which is more than sufficient to meet the frame rate requirements all use cases. 
+The switch networks comprise two individual series of daisy chained ADG714 CMOS switches (Analog Devices, USA), one each for the source and sink connections from the current source. The switch networks themselves can be daisy chained together, thus enabling current injection between any two electrodes from a total of 128. The switchboard is powered via lithium-ion polymer battery, and communicates with the controller through a digitally isolated SPI bus. The possible time between switching electrode injection pairs ranges from 100 uS to approximately 70 minutes for 128 channels, which is more than sufficient to meet the frame rate requirements all use cases. 
 
 ## Controller software
 
-Aside from its ubiquity and open source code, the additional benefit of basing the controller on the Arduino platform is that it is not hardware specific. Thus porting the software to another device with different architecture is comparatively simple, and does not fix the system to a specific board.  Currently, the PC software for serial communication with the controller is written in Matlab (*matlab ref*), but the commands can be easily replicated in another language.
+Aside from its ubiquity and open source code, the additional benefit of basing the controller on the Arduino platform is that it is not hardware specific. Thus porting the software to another device with different architecture is comparatively simple, and does not fix the system to a specific board.  Currently, the PC software for serial communication with the controller is written in Matlab (The MathWorks Inc.), but the commands can be easily replicated in another language.
 
 ## Data processing software
 
