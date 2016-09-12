@@ -1,1 +1,1 @@
-\label{FigureSweep} Impedance spectrum of healthy and ischamic brain as measured with ScouseTom system.
+\label{FigureSweep} Impedance spectrum of healthy (n=112, 4 rats) and ischamic brain (n=56, 2 rats) as measured with ScouseTom system. Error bars correspond to the standard error.
