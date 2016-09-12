@@ -53,6 +53,6 @@ Despite the 8-fold increase in bandwidth and consequent noise increase, the perf
 
 ### Characterisation
 
-Data was calculated ate each frequency \ref{FigureSweep}. **TOM TO ADD MORE**
+Data was calculated at each frequency \ref{FigureSweep}. **TOM TO ADD MORE**
 
 
