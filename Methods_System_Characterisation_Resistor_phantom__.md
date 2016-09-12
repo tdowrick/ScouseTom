@@ -26,7 +26,7 @@ Multifrequency EIT data was collected as part of clinical trial in collaboration
 
 Data were collected on 10 healthy subjects and 26 patients 
 
-### Characterisation
+### Impedance Spectrum Measurment
 
 Impedance spectrum measurements have been made with the ScouseTom system \cite{Dowrick_2015}, where low frequency (< 3kHz) impedance measurements were made on healthy (n=112 voltage measurments in 4 rats) and ischaemic (n=56 in 2 rats) rat brain. Impedance data was collected using a 100uA injection through two channels of a 30 electrode array, placed directly on the brain surface. The frequency was increased in 5Hz intervals from 1Hz to 100Hz, 10Hz intervals from 100Hz to 1000Hz and 50Hz intervals between 1000Hz and 3000Hz, with a minimum of 50 periods of the waveform recorded at each frequency. The frequency was swept from 1Hz-3000Hz, 3000Hz-1Hz and with random ordering. The use of an EEG recorder allowed parallel voltage recording at all electrodes, which were averaged together at each frequency. The relative change in impedance, rather than the absolute value, was calculated, by comparing the measured voltages at each frequency.
 
@@ -51,8 +51,8 @@ Despite the 8-fold increase in bandwidth and consequent noise increase, the perf
 ### Multifrequency 
 **DATA FROM STROKE**
 
-### Characterisation
+### Impedance Spectrum Measurment
 
-Healthy brain tissue showed a non linear decrease of 15% impedance over 0-250Hz, with ischaemic brain showing a decrease of 7% over the same range, with a more linear slope. \ref{FigureSweep}. Above 250Hz, the impedance of both tissue types decreased at the same rate.
+Healthy brain tissue showed a non linear decrease of 15% impedance over 0-250Hz, with ischaemic brain showing a decrease of 7% over the same range, with a more linear slope \ref{FigureSweep}. Above 250Hz, the impedance of both tissue types decreased at the same rate.
 
 
