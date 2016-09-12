@@ -1,1 +1,1 @@
-\label{EP_Rec} Example EIT image during electrical forepaw stimulation at T=10.5 ms after stimulation, corresponding to the peak in \ref{EP_DZ}
+\label{EPRecon} Example EIT image during electrical forepaw stimulation at T=10.5 ms after stimulation, corresponding to the peak in \ref{EPDZ}
