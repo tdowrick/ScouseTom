@@ -1,1 +1,1 @@
-\label{blocks} Overview of system architecture
+\label{STBlocks} Overview of system architecture
