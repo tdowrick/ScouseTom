@@ -11,7 +11,7 @@ The mean amplitude decrease, figure \ref{freqresp}, was 1.86 mV V or 21.%  from 
 Each of the modes of operation previously described have been used in experimental settings. 
 
 ### Time difference
-During the baseline period before haemorrhage onset, voltages changes of 20.6\(\mu\)V \(\pm\) 51\(\mu\)V (n=7) were observed \ref{FigureStroke}. Over the 10 minute injection period, changes of 20.6mV \(\pm\) 5.4mV occured, with a further increase of 2.2mV \(\pm\) 1.4mV over the remaining measurement time. The time course of the impedance change was consistent with the injection period of the blood into the brain. EIT images were produced using a 0th order Tikhonov algorithm on a 4 million element mesh of a generic rat skull.
+During the baseline period before haemorrhage onset, voltages changes of 20.6\(\mu\)V \(\pm\) 51\(\mu\)V (n=7) were observed \ref{FigureStroke}. Over the 10 minute injection period, changes of 20.6mV \(\pm\) 5.4mV occured, with a further increase of 2.2mV \(\pm\) 1.4mV over the remaining measurement time. The time course of the impedance change was consistent with the injection period of the blood into the brain. Previous investigation into appropriate data rejection methods for data collected with other EIT systems  \cite{packham2012comparison} 
 
 ### Triggered
 
