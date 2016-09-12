@@ -7,7 +7,7 @@ The optimal measurement paradigms for fast neural EIT and EIT of the head have n
 - Noise, frame rate and performance characeristics comparable to existing EIT systems. Fast neural EIT involves detecting small (approximately 0.1%) changes in impedance, which requires stable current injection, with <0.1% noise, and voltage recording with accuracy of ~100nV.
 - Variable electrode count. EIT experiments typically utilise between 16 and 128 electrodes, dependent on the application.
 - Ability to synchronise injection/recording with external triggers (whisker stiumlation, visual, auditory). The phase of injected current should be randomised with respect to the stimulation, to minimise the phase related artefacts in EP recordings \cite{Aristovich_2015}
-- Reconfigurable modes of operation. The system should be as flexible as possible, to allow for new functionality to be introduced as a later date, if additional requirments or experimental methods are identified. Ideally, this should be acheiveable through software/firmware changes only.
+- Reconfigurable modes of operation. The system should be as versatile as possible, to allow for new functionality to be introduced as a later date, if additional requirments or experimental methods are identified. Ideally, this should be acheiveable through software/firmware changes only.
 - Easily reproducible. Design and construction of a bespoke EIT system can take several months and existing publications on EIT systems typically lack enough detail to allow replication. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled in a matter of weeks.
 
 
