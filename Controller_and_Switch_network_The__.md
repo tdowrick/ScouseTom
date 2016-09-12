@@ -18,4 +18,6 @@ With conventional EIT systems demodulation of the AC signal is performed in hard
 
 As the ScouseTom system stores the continuous modulated voltages via an EEG system, the demodulation and data processing must be implemented in PC software after the experiment. The processing software is written in Matlab, employing Zero-phase IIR band pass filtering and the Hilbert transform to produce the envelope and phase of the amplitude modulated signal. The simultaneous EEG signal is obtained simply through low pass filtering the recorded signal. This also allows the user control over all the parameters during demodulation and averaging, demodulation method, centre frequency, bandwidth, filter type etc. This versatility is necessary to process data in EP studies, when the system is used in Triggered mode, as the measurement time is orders of magnitude longer than that of conventional EIT, and the synchronised EEG signal is essential. 
 
+## Electrode Connectors
 
+Standard 9 and 37 D-Sub connectors are used for internal connections within the system. Custom connectors/PCBs have been created to allow connection to a range of common electrode interfaces, including EEG electrodes, depth electrodes and Omnetics devices. Bespoke connectors and cabling can be added to the system for use with non-standard electrode arrays.
