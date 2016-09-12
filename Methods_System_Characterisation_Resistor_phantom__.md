@@ -5,7 +5,7 @@ Resistor phantom measurements were carried out in order to assess the noise and 
 
 ## Frequency response
 
-The frequency response was determined using two EEG systems, through measurements on a 32 channel resistive phantom with a current of 100 $\mu$ A. A single measurement was averaged across 32 periods for frequencies below 200 Hz and 64 cycles above, with a total of 64 measurement combinations and 10 repeats. Data was collected over a range 20 Hz to 2 kHz, for the BioSemi system and 20 to 20 kHz for the ActiChamp system, and the results normalised to the lowest frequency.  Ideally with a purely resistive test object, no change in voltage should be seen, and the results of these test will be used for calibrated data in all subsequent experiments.
+The frequency response was determined using two EEG systems, through measurements on a 32 channel resistive phantom with a current of 100 $\mu$ A. A single measurement was averaged across 32 periods for frequencies below 200 Hz and 64 cycles above, with a total of 64 measurement combinations and 10 repeats. Data was collected over a range 20 Hz to 2 kHz, for the BioSemi system and 20 to 20 kHz for the ActiChamp system, and the results normalised to the lowest frequency.  Ideally with a purely resistive test object, no change in voltage should be seen, and the results of these test will be used to calibrate data in all subsequent experiments.
 
 ##Modes/Experimental Data
 
