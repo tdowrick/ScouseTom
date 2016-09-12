@@ -1,1 +1,1 @@
-\label{FigureStroke} EIT data and image reconstruction for stroke experiment. Ten minutes of baseline data was recorded before haemorrhage onset, indicated by the dotted vertical line.
+\label{FigureStroke} Single EIT dataset and image reconstruction for stroke experiment. Ten minutes of baseline data was recorded before haemorrhage onset, indicated by the dotted vertical line.
