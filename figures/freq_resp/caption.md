@@ -1,1 +1,1 @@
-\label{freqresp} Amplitude response of the ScouseTom system as recorded with the BioSemi and ActiChamp systems.
+\label{freqresp} Amplitude response of the ScouseTom system as recorded with the BioSemi and ActiChamp systems. In both cases the response matches the gain of the Anti-Aliasing filter in the EEG system used.
