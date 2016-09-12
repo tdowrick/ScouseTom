@@ -18,7 +18,7 @@ Each of the modes of operation previously described have been used in experiment
 
 The ScouseTom system was utilised in measurements of evoked activity in the rat somatosensory cortex, following electrical stimulation of the forepaw. The method used closely follows that detailed in \cite{Aristovich_2016} \cite{Vongerichten_2016}, with an increased number of electrodes, from 32 on a single hemisphere to 128 with 64 on each hemisphere. The stimuli delivered were 10 mA pulses 1 ms duration at a rate of 2 Hz, triggered by the ScouseTom controller.
 
-Current was injected at 1.7 kHz with 50 $\mu$A amplitude, for 30 seconds across a pair of electrodes, with voltages on 127 electrodes recorded in parallel using the ActiChamp ActiveTwo system with 25 kHz sampling rate. The voltages were demodulated with 2 kHz bandwidth, yielding 1 ms time resolution, and coherent averaging was performed on 60 500 ms trials centered around the time of stimulation. This process was repeated for c. 50 pairs of injection electrodes over the course of 25 minutes to produce a complete data set of c. 6000 voltages. EIT images were reconstructed at each 1ms time point, using the methodology outlined in \cite{Aristovich_2014}.
+Current was injected at 1.7 kHz with 50 $\mu$ A amplitude, for 30 seconds across a pair of electrodes, with voltages on 127 electrodes recorded in parallel using the ActiChamp ActiveTwo system with 25 kHz sampling rate. The voltages were demodulated with 2 kHz bandwidth, yielding 1 ms time resolution, and coherent averaging was performed on 60 500 ms trials centered around the time of stimulation. This process was repeated for c. 50 pairs of injection electrodes over the course of 25 minutes to produce a complete data set of c. 6000 voltages. EIT images were reconstructed at each 1ms time point, using the methodology outlined in \cite{Aristovich_2014}.
 
 ### Multifrequency 
 
@@ -28,7 +28,7 @@ Data were collected on 10 healthy subjects and 26 patients
 
 ### Characterisation
 
-Impedance spectrum measurements have been made with the ScouseTom system \cite{Dowrick_2015}, where low frequency (< 3kHz) impedance measurements were made on healthy and ischaemic rat brain. Impedance data was collected using a 100uA injection through two channels of a 30 electrode array, placed directly on the brain surface. The frequency was increased in 5Hz intervals from 1Hz to 100Hz, 10Hz intervals from 100Hz to 1000Hz and 50Hz intervals between 1000Hz and 3000Hz, with a minimum of 50 periods of the waveform recorded at each frequency. The frequency was swept from 1Hz-3000Hz, 3000Hz-1Hz and with random ordering. The use of an EEG recorder allowed parallel voltage recording at all electrodes, which were averaged together at each frequency.
+Impedance spectrum measurements have been made with the ScouseTom system \cite{Dowrick_2015}, where low frequency (< 3kHz) impedance measurements were made on healthy (n=112 voltage measurments in 4 rats) and ischaemic (n=56 in 2 rats) rat brain. Impedance data was collected using a 100uA injection through two channels of a 30 electrode array, placed directly on the brain surface. The frequency was increased in 5Hz intervals from 1Hz to 100Hz, 10Hz intervals from 100Hz to 1000Hz and 50Hz intervals between 1000Hz and 3000Hz, with a minimum of 50 periods of the waveform recorded at each frequency. The frequency was swept from 1Hz-3000Hz, 3000Hz-1Hz and with random ordering. The use of an EEG recorder allowed parallel voltage recording at all electrodes, which were averaged together at each frequency. The relative change in impedance, rather than the absolute value, was calculated, by comparing the measured voltages at each frequency.
 
 #Results
 ##System Characterisation
@@ -41,8 +41,8 @@ The mean amplitude decrease, figure \ref{freqresp}, was 1.86 mV V or 21.%  from 
 
 Each of the modes of operation previously described have been used in experimental settings. 
 
-### Time differenc
-During the baseline period before haemorrhage onset, voltages changes of 200$\mu$V $\pm$ 51$\mu$V (n=7) were observed \ref{FigureStroke}. Over the 10 minute injection period, changes of 20.6mV $\pm$ 5.4mV occured, with a further increase of 2.2mV $\pm$ 1.4mV over the remaining measurement time. The time course of the impedance change was consistent with the injection period of the blood into the brain. EIT images were produced using a 0th order Tikhonov algorithm on a 4 million element mesh of a generic rat skull.
+### Time difference
+During the baseline period before haemorrhage onset, voltages changes of 20.6\(\mu\)V \(\pm\) 51\(\mu\)V (n=7) were observed \ref{FigureStroke}. Over the 10 minute injection period, changes of 20.6mV \(\pm\) 5.4mV occured, with a further increase of 2.2mV \(\pm\) 1.4mV over the remaining measurement time. The time course of the impedance change was consistent with the injection period of the blood into the brain. EIT images were produced using a 0th order Tikhonov algorithm on a 4 million element mesh of a generic rat skull.
 
 ### Triggered
 
@@ -53,6 +53,6 @@ Despite the 8-fold increase in bandwidth and consequent noise increase, the perf
 
 ### Characterisation
 
-Data was calculated at each frequency \ref{FigureSweep}. **TOM TO ADD MORE**
+Healthy brain tissue showed a non linear decrease of 15% impedance over 0-250Hz, with ischaemic brain showing a decrease of 7% over the same range, with a more linear slope. \ref{FigureSweep}. Above 250Hz, the impedance of both tissue types decreased at the same rate.
 
 
