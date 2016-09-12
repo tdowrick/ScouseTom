@@ -12,7 +12,6 @@ begin_table_centering_caption_Summary__.tex
 Modes_of_operation_example_use__.md
 figures/Modes/Modes.png
 Methods_System_Characterisation_Resistor_phantom__.md
-Triggered_Despite_the_8_fold__.md
 figures/export_fig_out/SNR.png
 figures/freq_resp/freq_resp.png
 figures/Haemo/Stroke_data_example.png
