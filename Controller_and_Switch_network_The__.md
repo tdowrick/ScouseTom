@@ -20,4 +20,4 @@ As the ScouseTom system stores the continuous modulated voltages via an EEG syst
 
 ## Electrode Connectors
 
-Standard 9 and 37 D-Sub connectors are used for internal connections within the system. Custom connectors/PCBs have been created to allow connection to a range of common electrode interfaces, including EEG electrodes, depth electrodes and Omnetics devices. Bespoke connectors and cabling can be added to the system for use with non-standard electrode arrays.
+Standard 9 and 37 D-Sub connectors are used for internal connections within the system. Custom connectors and PCBs have been created to allow connection to a range of common electrode interfaces, including EEG electrodes, depth electrodes and Omnetics (Omnetics Connector Corp. MN, USA) devices. Bespoke connectors and cabling can be added to the system for use with non-standard electrode arrays.
