@@ -12,7 +12,7 @@ The frequency response was determined using two EEG systems, through measurement
 Each of the modes of operation previously described have been used in experimental settings. 
 
 ### Time difference
-'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016} figure \ref{FigureStroke}. Using 100\( \mu \)A at 2kHz and c. 60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model was triggered at the 10 minute mark, which was expected to cause a net impedance decrease.
+'Standard' time difference EIT data was collected for imaging stroke in a rat model \cite{Dowrick_2016}. Using 100\( \mu \)A at 2kHz and c. 60 injection pairs, a frame of EIT data was recorded every minute, over 30 minutes. A haemorrhage model where blood was injected into the brain over a 10 minute period, was triggered at the 10 minute mark, which was expected to cause a net impedance decrease.
 
 ### Triggered
 
@@ -42,7 +42,7 @@ The mean amplitude decrease, figure \ref{freqresp}, was 1.86 mV V or 21.%  from 
 Each of the modes of operation previously described have been used in experimental settings. 
 
 ### Time difference - NEED MORE INFO HERE NOISE ETC
-**Tom to put in more values here from other paper** voltage changes up to 20mV were observed.
+During the baseline recording, before haemorrhage onset, voltages changes of 200\mu V \pm 51\mu V (n=7) were observed. Over the 10 minute injection period, changes of 20.6mV \pm 5.4mV occured, with a further increase of 2.2mV \pm 1.4mV over the remainin measurement time.
 
 ### Triggered
 
