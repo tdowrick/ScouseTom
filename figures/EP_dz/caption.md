@@ -1,1 +1,1 @@
-\label{EP_DZ} Impedance changes in rat somatosensory cortex during evoked potentials using 127 channel epicortical array, for a single pair of injecting electrodes.  Channels with significant changes (dV $> 3\sigma$) highlighted
+\label{EPDZ} Impedance changes in rat somatosensory cortex during evoked potentials using 127 channel epicortical array, for a single pair of injecting electrodes.  Channels with significant changes (dV $> 3\sigma$) highlighted
