@@ -16,6 +16,7 @@ During the baseline period before haemorrhage onset, voltages changes of 20.6\(\
 ### Triggered
 
 Despite the 8-fold increase in bandwidth and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels. Significant impedance changes (dV $> 3\sigma$), a single injection pair example in figure \ref{EPDZ}, ranged from 1.20 $\mu$V to 18.7 $\mu$V (mean 3.97 $\mu$V), equivalent to 3.13 to 33.0 (mean 8.86) SNR. 
+
 EIT reconstructions with this dataset show the onset at 7ms approximately 1 mm below the surface within the primary somatosensory cortex (S1), before expanding to a larger volume until reaching a maximum between 11-12 ms, figure \cite{EPRecon}, then spreading to adjacent areas and finally disappearing at approximately 18 ms. Images obtained previously with a 32 channel system by \citet{Aristovich_2016} with mechanical stimulation of the rat whisker which were found to be in good agreement with established literature, and cross validated with other imaging techniques both in initial onset \cite{armstrong1991thalamo}, and spread of activity \cite{petersen2007functional}. Whilst cross validation was not performed in this study, the literature is equally well established regarding forepaw stimualtion, to which these images are in good agreement \cite{peeters2001comparing} \cite{masamoto2007relationship} \cite{lowe2007small}
 
 ### Multifrequency 
