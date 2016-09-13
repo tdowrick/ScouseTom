@@ -1,5 +1,6 @@
 Abstract_A_highly_versatile_EIT__.md
 Introduction_Electrical_Impedance_Tomography_Electrical__.md
+Modes_of_operation_example_use__.md
 Motivation_The_optimal_measurement_paradigms__.md
 begin_table_centering_caption_Example__.tex
 System_Design_The_ScouseTom_EIT__.md
@@ -9,7 +10,6 @@ Controller_and_Switch_network_The__.md
 figures/ST Overview/ST Overview.png
 figures/Blocks/blocks.png
 begin_table_centering_caption_Summary__.tex
-Modes_of_operation_example_use__.md
 figures/Modes/Modes.png
 Methods_System_Characterisation_Resistor_phantom__.md
 Results_System_Characterisation_For_resistor__.md
