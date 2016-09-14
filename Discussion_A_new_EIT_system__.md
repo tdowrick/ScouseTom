@@ -3,6 +3,8 @@ A new EIT system has been described which can be utilised in a range of experime
 
 All of the hardware designs, PCB layouts and associated software have been made available (see Appendix) to allow interested parties to replicate and modify the system.
 
+**mention that for groups already performing EEG studies, expense is like £5000, so easy and cheap to add EIT to their experiments**
+
 ## Summary of results
 Noise figures are XXYY
 SNR is ZZZZ etc
