@@ -1,5 +1,5 @@
 # Discussion
-A new EIT system has been described which can be utilised in a range of experiments, particularly those involving EIT of the head or nerve. A key advantage of the ScouseTom system is the high level of control it offers over all aspects of the experimental process.
+A new EIT system has been described which can be utilised in a range of experiments, particularly those involving EIT of the head or nerve **no mention or citation of nerve yet**. A key advantage of the ScouseTom system is the high level of control it offers over all aspects of the experimental process.
 
 All of the hardware designs, PCB layouts and associated software have been made available (see Appendix) to allow interested parties to replicate and modify the system.
 
