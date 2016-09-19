@@ -19,6 +19,8 @@ During the baseline period before haemorrhage onset, voltages changes of 20.6\(\
 ###Scalp Recordings
 The mean signal amplitude across all subjects was 5.4 mV $\pm$ 1.97 mV. The mean noise across all 540 measurements and 60 repeats ranged from 8.55 $\mu$V to 53.9 $\mu$V between patients, with an overall noise of 37.2  $\mu$V $\pm$ 39.0 $\mu$V across all measurements, repeats and subjects. The equivalent SNR was 46.5 dB $\pm$ 4.14 dB, ranging from 41.6 to 56.0 dB between subjects. The mean drift across the length of the recordings was 15.1 $\mu$V or 0.26 %. 
 
+**compare to other studies - thesis and aditaya ones**
+
 
 
 ### Triggered
@@ -28,9 +30,6 @@ Despite the 8-fold increase in bandwidth and consequent noise increase, the perf
 EIT reconstructions with this dataset show the onset at 7ms approximately 1 mm below the surface within the primary somatosensory cortex (S1), before expanding to a larger volume until reaching a maximum between 11-12 ms, figure \ref{EPRecon}, then spreading to adjacent areas and finally disappearing at approximately 18 ms. Images obtained previously with a 32 channel system by \citet{Aristovich_2016} with mechanical stimulation of the rat whisker which were found to be in good agreement with established literature, and cross validated with other imaging techniques both in initial onset \cite{armstrong1991thalamo}, and spread of activity \cite{petersen2007functional}. Whilst cross validation was not performed in this study, the literature is equally well established regarding forepaw stimulation, to which these images are in good agreement \cite{peeters2001comparing} \cite{masamoto2007relationship} \cite{lowe2007small}.
 
 ### Multifrequency 
-**DATA FROM STROKE**
-
-TD data - the overall noise across all patients, channels and frames was **BLAH** equivalent to an SNR of, with noise per subject ranging from **BLAH** to **BLAH**. The drift across the half hour recording was on average, ranging from blah to blah. 
 
 MF data - the noise across freq was ... with a change across the recorded spectrum of ...
 
