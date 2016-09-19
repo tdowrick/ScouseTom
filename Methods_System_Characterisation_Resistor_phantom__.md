@@ -2,6 +2,10 @@
 ##System Characterisation
 Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. The 32 channel Cardiff phantom \cite{griffiths1995cole} was used, configured to a purely resistive load.  Data was collected using the BioSemi EEG system, in a configuration similar to that used during recordings on the human scalp: with current injected at 2 kHz and 100 $\mu$ A, for 100 ms per measurement, over the course of four hours. The noise, defined as the standard deviation, was considered across three time intervals: 100 repeats (approximately five minutes) representing a typical short term measurement, and one and four hours. These longer recordings replicate the use of the system both in Triggered mode, as well as long term monitoring applications \cite{fu2014use} \cite{adler2012whither}.
 
+To assess the performance of the system in a clinically realistic scenario, recordings were made in 10 subjects at rest with scalp electrodes. Subjects were fitted with 32 commercial EEG electrodes (EasyCap, Germany, www.easycap.de) configured using the standard EEG 10-20 \cite{Jasper1958} and 10-10 extension \cite{Oostenveld2001} systems. The electrode application procedure was identical to that used in clinical EEG, with each site cleaned with alcohol and abraded before applying conductive paste. Current was injected at 1.2 kHz and 160 $\mu$ A, for 64 cycles or 54 ms, between 31 pairs of electrodes, for a total of 930 measurements for a complete frame. This protocol was repeated over the course of 
+
+
+
 
 ## Frequency response
 
@@ -22,7 +26,11 @@ Current was injected at 1.7 kHz with 50 $\mu$ A amplitude, for 30 seconds across
 
 ### Multifrequency 
 
-Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH) **ref figure**. Stroke patients were fitted with 32 commercial EEG electrodes (EasyCap, Germany, www.easycap.de) configured using the standard EEG 10-20 \cite{Jasper1958} and 10-10 extension \cite{Oostenveld2001} systems. The electrode application procedure was identical to that used in clinical EEG, with each site cleaned with alcohol and abraded before applying conductive paste. A total of 31 injection pairs were used, with current injected at 17 frequencies between 5 to 2 kHz, for 32 periods at carrier frequencies below 200 Hz, 64 periods between 200 and 1 kHz, and 128 periods above 1 kHz. The amplitude of injected current varied with frequency as per the guidelines in IEC 60601 \cite{IEC}, with the exception of frequencies below 200 Hz which, as as in previous studies \cite{McEwan_2006}, were reduced by half to ensure the current was not perceptible and to avoid saturation of the EEG amplifier. The protocol was repeated three times, taking a total of 20 minutes to complete. 
+Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH) **ref figure**. 
+
+Stroke patients were fitted with 32 commercial EEG electrodes (EasyCap, Germany, www.easycap.de) configured using the standard EEG 10-20 \cite{Jasper1958} and 10-10 extension \cite{Oostenveld2001} systems. The electrode application procedure was identical to that used in clinical EEG, with each site cleaned with alcohol and abraded before applying conductive paste.
+
+A total of 31 injection pairs were used, with current injected at 17 frequencies between 5 to 2 kHz, for 32 periods at carrier frequencies below 200 Hz, 64 periods between 200 and 1 kHz, and 128 periods above 1 kHz. The amplitude of injected current varied with frequency as per the guidelines in IEC 60601 \cite{IEC}, with the exception of frequencies below 200 Hz which, as as in previous studies \cite{McEwan_2006}, were reduced by half to ensure the current was not perceptible and to avoid saturation of the EEG amplifier. The protocol was repeated three times, taking a total of 20 minutes to complete. 
 
 **ADD BIT ABOUT TIME DIFFERENCE DATA**
 
