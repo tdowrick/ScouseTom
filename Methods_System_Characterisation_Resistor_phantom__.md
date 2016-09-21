@@ -30,7 +30,6 @@ Stroke patients were fitted with 32 commercial EEG electrodes (EasyCap, Germany,
 
 A total of 31 injection pairs were used, with current injected at 17 frequencies between 5 to 2 kHz, for 32 periods at carrier frequencies below 200 Hz, 64 periods between 200 and 1 kHz, and 128 periods above 1 kHz. The amplitude of injected current varied with frequency as per the guidelines in IEC 60601 \cite{IEC}, with the exception of frequencies below 200 Hz which, as as in previous studies \cite{McEwan_2006}, were reduced by half to ensure the current was not perceptible and to avoid saturation of the EEG amplifier. The protocol was repeated three times, taking a total of 20 minutes to complete. 
 
-**ADD BIT ABOUT TIME DIFFERENCE DATA**
 
 Data were collected on 10 healthy subjects and 26 patients 
 
