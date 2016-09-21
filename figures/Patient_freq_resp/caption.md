@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{MFSNR} SNR of multi frequency scalp recordings, averaged across all measurements and patients.
