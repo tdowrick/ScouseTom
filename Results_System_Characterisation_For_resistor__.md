@@ -30,6 +30,9 @@ EIT reconstructions with this dataset show the onset at 7ms approximately 1 mm b
 
 MF data - the noise across freq was ... with a change across the recorded spectrum of ...
 
+The SNR of the longer term recordings also did not demonstrate any frequency dependence, with a mean SNR of 41.6 $\pm$ 7.9 dB, 41.4 $\pm$ 8.25 dB and 40.7 $\pm$ 8.2 dB for 0.2 1.2 and 2 kHz respectively. Similarly the mean change in impedance was 0.74 %, 0.61 % 0.68 %, and was thus largely unchanged across frequency.  
+
+
 ### Impedance Spectrum Measurment
 
 Healthy brain tissue showed a non linear decrease of 15% impedance over 0-250Hz, with ischaemic brain showing a decrease of 7% over the same range, with a more linear slope \ref{FigureSweep}. Above 250Hz, the impedance of both tissue types decreased at the same rate.
