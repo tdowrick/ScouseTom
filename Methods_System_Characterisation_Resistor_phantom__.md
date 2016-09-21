@@ -24,10 +24,9 @@ Current was injected at 1.7 kHz with 50 $\mu$ A amplitude, for 30 seconds across
 
 ### Multifrequency 
 
-Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH). Stroke patients were fitted with 32 commercial EEG electrodes using the same methodology as described in section \ref{methodsTD}. A total of 31 injection pairs were used, with current injected at 17 frequencies between 5 to 2 kHz, for 32 periods at carrier frequencies below 200 Hz, 64 periods between 200 and 1 kHz, and 128 periods above 1 kHz. The amplitude of injected current varied with frequency as per the guidelines in IEC 60601 \cite{IEC}, with the exception of frequencies below 200 Hz which, as as in previous studies \cite{McEwan_2006}, were reduced by half to ensure the current was not perceptible and to avoid saturation of the EEG amplifier. The protocol was repeated three times, taking a total of 20 minutes to complete. 
+Multifrequency EIT data was collected as part of clinical trial in collaboration with the Hyper Acute Stroke unit (HASU) at University College London Hospital (UCLH). Stroke patients were fitted with 32 commercial EEG electrodes using the same methodology as described in section \ref{methodsTD}. A total of 31 injection pairs were used, with current injected at 17 frequencies between 5 Hz to 2 kHz, for 32 periods at carrier frequencies below 200 Hz, 64 periods between 200 and 1 kHz, and 128 periods above 1 kHz. The amplitude of injected current varied with frequency as per the guidelines in IEC 60601 \cite{IEC}, with the exception of frequencies below 200 Hz which, as as in previous studies \cite{McEwan_2006}, were reduced by half to ensure the current was not perceptible and to avoid saturation of the EEG amplifier. The protocol was repeated three times, taking a total of 20 minutes to complete. 
 
-
-Data were collected on 10 healthy subjects and 26 patients 
+A further dataset with 60 repeats using only three frequencies, 200 Hz, 1.2 kHz and 2 kHz, was also recorded on each patient, to better evaluate the frequency dependence of the noise performance of the system. Data were collected in 23 patients, for a total of 29 time difference recordings, and 
 
 ### Impedance Spectrum Measurment
 
