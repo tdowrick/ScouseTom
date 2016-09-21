@@ -12,7 +12,7 @@ figures/Blocks/blocks.png
 begin_table_centering_caption_Summary__.tex
 figures/Modes/Modes.png
 Methods_System_Characterisation_Resistor_phantom__.md
-Results_System_Characterisation_For_resistor__.md
+balh_Results_System_Characterisation_For__.md
 Multifrequency_DATA_FROM_STROKE__.md
 figures/export_fig_out/SNR.png
 figures/freq_resp/freq_resp.png
