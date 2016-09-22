@@ -15,10 +15,6 @@ During the baseline period before haemorrhage onset, voltages changes of 20.6\(\
 ###Scalp Recordings
 The mean signal amplitude across all subjects was 5.4 mV $\pm$ 1.97 mV, and the mean drift across the length of the recordings was 15.1 $\mu$V or 0.26 %. The mean noise across all 540 measurements and 60 repeats ranged from 8.55 $\mu$V to 53.9 $\mu$V between patients, with an overall noise of 37.2  $\mu$V $\pm$ 39.0 $\mu$V across all measurements, repeats and subjects. The equivalent SNR was 46.5 dB $\pm$ 4.14 dB, ranging from 41.6 to 56.0 dB between subjects. As with the long term resistor phantom recordings, the drifts across the recordings reduced the equivalent SNR. Additionally, artefacts resulting from subject or electrode movement were present some recordings, further reducing the effective SNR in these cases.  
 
-**compare to other studies - thesis and aditaya ones**
-
-
-
 ### Triggered
 
 Despite the 4-fold increase in bandwidth and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels. Significant impedance changes (dV $> 3\sigma$), a single injection pair example in figure \ref{EPDZ}, ranged from 1.20 $\mu$V to 18.7 $\mu$V (mean 3.97 $\mu$V), equivalent to 3.13 to 33.0 (mean 8.86) SNR. 
