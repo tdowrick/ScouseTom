@@ -1,3 +1,3 @@
 # Appendix - Hardware/Software Resources
-Software available at www.githib.com/dsfdsfadf
-Hardware available at www.github.com/grr4354
+Controller hardware schematics, PCBs and documentation and firmware available at https://github.com/EIT-team/ScouseTom
+Software for processing data available at https://github.com/EIT-team/Load_data
