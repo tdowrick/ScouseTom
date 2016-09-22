@@ -1,2 +1,0 @@
-### Multifrequency
-DATA FROM STROKE
