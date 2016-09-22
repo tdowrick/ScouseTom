@@ -2,9 +2,9 @@ Abstract_A_highly_versatile_EIT__.md
 Introduction_Electrical_Impedance_Tomography_Electrical__.md
 Modes_of_operation_and_example__.md
 Motivation_The_optimal_measurement_paradigms__.md
+figures/Modes/Modes.png
 begin_table_centering_caption_Example__.tex
 System_Design_The_ScouseTom_EIT__.md
-figures/Modes/Modes.png
 subsection_Current_source_The_Keithley__.tex
 Voltage_recording_The_requirements_for__.md
 Controller_and_Switch_network_The__.md
