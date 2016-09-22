@@ -13,7 +13,7 @@ Each of the modes of operation previously described have been used in experiment
 During the baseline period before haemorrhage onset, voltages changes of 20.6\(\mu\)V \(\pm\) 51\(\mu\)V (n=7) were observed \ref{FigureStroke}. Over the 10 minute injection period, changes of 20.6mV \(\pm\) 5.4mV occured, with a further increase of 2.2mV \(\pm\) 1.4mV over the remaining measurement time. The time course of the impedance change was consistent with the injection period of the blood into the brain. Previous investigation into data rejection methods for measurements using collected with other EIT systems, suggested removal of up to 30 % of all channels in phantoms were necessary \cite{packham2012comparison}. However, only 10 % of channels were rejected from this dataset using similar criteria, suggesting an improvement in the quality of the data, despite the more complex experimental scenario.
 
 ###Scalp Recordings
-The mean signal amplitude across all subjects was 5.4 mV $\pm$ 1.97 mV. The mean noise across all 540 measurements and 60 repeats ranged from 8.55 $\mu$V to 53.9 $\mu$V between patients, with an overall noise of 37.2  $\mu$V $\pm$ 39.0 $\mu$V across all measurements, repeats and subjects. The equivalent SNR was 46.5 dB $\pm$ 4.14 dB, ranging from 41.6 to 56.0 dB between subjects. The mean drift across the length of the recordings was 15.1 $\mu$V or 0.26 %. 
+The mean signal amplitude across all subjects was 5.4 mV $\pm$ 1.97 mV, and the mean drift across the length of the recordings was 15.1 $\mu$V or 0.26 %. The mean noise across all 540 measurements and 60 repeats ranged from 8.55 $\mu$V to 53.9 $\mu$V between patients, with an overall noise of 37.2  $\mu$V $\pm$ 39.0 $\mu$V across all measurements, repeats and subjects. The equivalent SNR was 46.5 dB $\pm$ 4.14 dB, ranging from 41.6 to 56.0 dB between subjects. Artefacts resulting from subject or electrode movement were present 
 
 **compare to other studies - thesis and aditaya ones**
 
@@ -29,7 +29,7 @@ EIT reconstructions with this dataset show the onset at 7ms approximately 1 mm b
 
 The variation in SNR across frequency, figure \ref{MFSNR}, averaged over all patients, repeats and measurements was not significant, ranging from 44.1 to 45.5 dB.  However, all of the frequencies below 200 Hz, the SNR was 1dB less than subsequent frequencies. These correspond to those with a lower number of sine wave periods averaged per measurement, and the number of averages should be increased in order to obtain a more uniform response across frequency. 
 
-As figure \ref{MFSNR} shows the range 
+As figure \ref{MFSNR} shows the range of 
 
 The SNR of the longer term recordings also did not demonstrate any frequency dependence, with a mean SNR of 41.6 $\pm$ 7.9 dB, 41.4 $\pm$ 8.25 dB and 40.7 $\pm$ 8.2 dB for 0.2 1.2 and 2 kHz respectively. Similarly the mean change in impedance was 0.74 %, 0.61 % 0.68 %, and was thus largely unchanged across frequency.  
 
