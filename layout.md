@@ -21,4 +21,4 @@ figures/mayorec.0006/q1.png
 figures/Patient_freq_resp/Patient_freq_resp.png
 figures/Impedance_spectrum/Impedance_spectrum.png
 Discussion_A_new_EIT_system__.md
-Appendix_Hardware_Software_Resources_Software__.md
+Appendix_Hardware_Software_Resources_Controller__.md
