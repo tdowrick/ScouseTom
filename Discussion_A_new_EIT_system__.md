@@ -4,10 +4,10 @@ A new EIT system has been described which can be utilised in a range of experime
 
 
 ## Summary of results
-Noise figures are XXYY
-SNR is ZZZZ etc
 
 Four main modes of operation have been utilised, facilitating EIT experiments into imaging of stroke, evoked potentials, epilepsy, activity in peripheral nerves, alongside a range of phantom based investigations.
+
+Experiments in a resistor phantom with realistic loads demonstrated an SNR of 77.5 dB $\pm$ 1.3 dB when averaged across 100 repeats of a 540 measurement protocol. There were no significant changes in SNR across a four hour recording, or across the frequency range of both EEG systems.
 
 **comparison to other systems? phantom tests are a bit worse than KHU but about same as UCH. but this system aimed at low freqs and amps, so tests difficult to compare. aim of system is to be verstatile primarily**
 
