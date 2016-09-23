@@ -1,5 +1,5 @@
 ## Modes of operation and example use cases
-The ScouseTom system allows for software control over all aspects of the EIT measurement setup (protocol, injection duration, frequency, amplitude). At present, the experimental usage of the system can be divided into four categories fig \ref{Modes}.
+At present, the common usages of EIT system can be divided into four categories fig \ref{Modes}.
 
 The most common method of data collection in EIT is time difference, wherein multiple data sets are obtained at different points in time, e.g. before and after the introduction of some perturbation, and the change in impedance over time is reconstructed. Such is the prevalence of this method, it could be considered the 'standard' mode of operation, being used in the vast majority of successful experiments in the field \cite{bayford2012bioimpedance}.
 
