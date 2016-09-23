@@ -1,1 +1,1 @@
-\label{MFSNR} SNR of multi frequency scalp recordings, averaged across all measurements and patients.
+\label{MFSNR} SNR (mean plus standard deviation) of multi frequency scalp recordings, averaged across all measurements and patients.
