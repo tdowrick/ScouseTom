@@ -9,7 +9,7 @@ Experiments in a resistor phantom with realistic loads demonstrated an SNR of 77
 ## Technical issues
 The use of EEG amplifiers for voltage recording limits the maximum frequency to 20kHz, which is sufficient for fast neural EIT, but may not be sufficient for other EIT applications. Additionally, the BioSemi and actiCHamp systems implement hardware antialiasing filters, which causes a reduced gain at higher frequencies \ref{freqresp}. Given that the frequency response of the gain is known, it can easily be accounted for when using multi-frequency data.
 
-Currently, the majority of the data processing is performed after the experiment 
+Currently, the majority of the data processing is not performed in `real time`, as a complete dataset must be saved to disk. However, as most EEG systems allow for streaming of data via TCP/IP, much of this analysis could be converted to process a single measurement at a time, thus enabling much of the capabilities of other commercial EIT systems.
 
 
 ## Recommendations for use
