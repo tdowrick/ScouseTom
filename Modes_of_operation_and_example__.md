@@ -1,7 +1,5 @@
-## Modes of operation and example use cases
-At present, the common usages of EIT system can be divided into four categories fig \ref{Modes}.
-
-The most common method of data collection in EIT is time difference, wherein multiple data sets are obtained at different points in time, e.g. before and after the introduction of some perturbation, and the change in impedance over time is reconstructed. Such is the prevalence of this method, it could be considered the 'standard' mode of operation, being used in the vast majority of successful experiments in the field \cite{bayford2012bioimpedance}.
+## EIT applications
+At present, the most common applications for EIT can be subdivided into four categories fig \ref{Modes}.  The most common method of data collection in EIT is time difference, wherein multiple data sets are obtained at different points in time, e.g. before and after the introduction of some perturbation, and the change in impedance over time is reconstructed. Such is the prevalence of this method, it could be considered the 'standard' mode of operation, being used in the vast majority of successful experiments in the field \cite{bayford2012bioimpedance}.
 
 Data collection can also be synchronised to an external stimulus (e.g. whisker stimulator in rats, of visual EPs in humans). The timing of the external trigger is captured using the digital input channels of the EEG recorder. This method, first developed by \cite{Oh2011} is used when impedance signals have low SNR and millisecond duration. Current is continuously injected, while the stimulus is repeated, generating multiple evoked potentials at different time points. Through coherent averaging, an impedance signal is obtained at each sample interval, yielding millisecond resolution. 
 
