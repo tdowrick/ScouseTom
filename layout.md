@@ -5,6 +5,7 @@ EIT_applications_At_present_there__.md
 figures/Modes/Modes.png
 Motivation_The_optimal_measurement_paradigms__.md
 begin_table_centering_caption_Example__.tex
+Experimental_Design_Say_why_we__.md
 System_Design_The_ScouseTom_EIT__.md
 subsection_Current_source_The_Keithley__.tex
 Voltage_recording_The_requirements_for__.md
