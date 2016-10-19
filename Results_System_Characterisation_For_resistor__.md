@@ -23,7 +23,7 @@ EIT reconstructions with this dataset show the onset at 7ms approximately 1 mm b
 
 ### Multifrequency 
 
-The variation in SNR across frequency, figure \ref{MFSNR}, averaged over all patients, repeats and measurements was not significant, ranging from 44.1 to 45.5 dB.  However, all of the frequencies below 200 Hz, the SNR was 1dB less than subsequent frequencies. These correspond to those with a lower number of sine wave periods averaged per measurement, and suggest the number of averages should be increased in order to obtain a more uniform response across frequency. 
+The variation in SNR across frequency, figure \ref{MFSNR}, averaged over all patients, repeats and measurements was not significant, ranging from 44.1 to 45.5 dB.  However, in all of the frequencies below 200 Hz, the SNR was 1dB less than subsequent frequencies. These correspond to those with a lower number of sine wave periods averaged per measurement, and suggest the number of averages should be increased in order to obtain a more uniform response across frequency. 
 
 The SNR of the longer term recordings also did not demonstrate any frequency dependence, with a mean SNR of 41.6 $\pm$ 7.9 dB, 41.4 $\pm$ 8.25 dB and 40.7 $\pm$ 8.2 dB for 0.2 1.2 and 2 kHz respectively. Similarly the mean drift in voltage was 0.74 %, 0.61 % 0.68 %, and was thus largely unchanged across frequency. The decrease in average SNR compared to the recordings in subjects in section \ref{scalp} is largely a result of a greater prevalence of motion artefacts from patient movement. 
 
