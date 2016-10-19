@@ -1,7 +1,7 @@
 #Methods
 ##System Characterisation
 
-[need a statement of purpose and exptl design please before methods]
+[need a statement of purpose and exptl design please before methods. Youve a motivation section explaining the design but somewhere need a section introducing testing how]
 Resistor phantom measurements were carried out in order to assess the noise and drift characteristics of the system. The 32 channel Cardiff phantom \cite{griffiths1995cole} was used, configured to a purely resistive load.  Data was collected using the BioSemi EEG system, in a configuration similar to that used during recordings on the human scalp: with current injected at 2 kHz and 100 $\mu$ A, for 100 ms per measurement, over the course of four hours. The noise, defined as the standard deviation, was considered across three time intervals: 100 repeats (approximately five minutes) representing a typical short term measurement, and one and four hours. These longer recordings replicate the use of the system both in triggered mode, as well as long term monitoring applications \cite{fu2014use} \cite{adler2012whither}.
 
 ## Frequency response
