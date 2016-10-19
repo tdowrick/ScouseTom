@@ -14,6 +14,7 @@ figures/ST Overview/ST Overview.png
 figures/Blocks/blocks.png
 begin_table_centering_caption_Summary__.tex
 Methods_System_Characterisation_need_a__.md
+Data_presentation_each_measurement_is__.md
 Results_System_Characterisation_For_resistor__.md
 figures/export_fig_out/SNR.png
 figures/freq_resp/freq_resp.png
