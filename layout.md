@@ -3,7 +3,7 @@ Introduction_Electrical_Impedance_Tomography_Electrical__.md
 begin_table_centering_caption_Existing__.tex
 Each_of_the_systems_described__.md
 begin_table_centering_caption_Example__.tex
-Purpose_The_optimal_measurement_paradigms__.md
+Purpose_The_motivation_behind_this__.md
 EIT_applications_At_present_there__.md
 figures/Modes/Modes.png
 Experimental_Design_Say_why_we__.md
