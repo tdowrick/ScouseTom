@@ -1,6 +1,6 @@
 ## Purpose
 
-The motivation behind this work was to develop an EIT system with the maximum flexiblity, such that it could be applied in a range of experimental settings. The following criteria were established:
+The motivation behind this work was to develop an EIT system that could be used for imaging in the head and brain, while offering the maximum flexibility, such that it could be easily reconfigured for different experimental methods. The following criteria were established:
 
 - Arbitrary control over current amplitude, up to 10mA and frequency in the kHz range. The current levels required for EIT can vary from tens of microamps, for epicortical recordings in rats \cite{Oh2011}, to several milliamps when using human scalp electrodes \cite{tidswell2001three}. 
 - Parallel recording of all voltages for processing of data 'offline', allowing for additional signals, such as EEG/ECoG to be recorded alongisde the EIT signal.
