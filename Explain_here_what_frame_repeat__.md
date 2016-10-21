@@ -1,5 +1,1 @@
-Explain here what frame,repeat combination, period, measuurement etc. is
-
-table of exisiting EIT systems
-
-what these systems *dont* do, which leads us to why we needed to do this
+Each of the systems described were built primarily for EIT imaging of the organs of the torso, with little emphasis placed on capturing the data required for EIT imaging of the brain and head. While the optimal measurement paradigms for both fast-neural EIT and EIT of the head have not yet been established, the requirements for different experiments can be specified (table \ref{table_requirements}). 
