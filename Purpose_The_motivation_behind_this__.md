@@ -9,6 +9,3 @@ The motivation behind this work was to develop an EIT system with the maximum fl
 - Ability to synchronise injection/recording with external triggers (whisker stimulation, visual, auditory). The phase of injected current should be randomised with respect to the stimulation, to minimise the phase related artefacts in EP recordings \cite{Aristovich_2015}.
 - Reconfigurable modes of operation, to allow for new functionality to be introduced as a later date. Ideally, this should be acheiveable through software/firmware changes only.
 - Easily reproducible. Design and construction of a bespoke EIT system can take several months and existing publications on EIT systems typically lack enough detail to allow replication. A system which can be easily replicated using a mixture of off the shelf equipment, alongside open source software and hardware designs, will significantly reduce the workload and allow new systems to be assembled in a matter of weeks.
-
-
-While each of the existing EIT system previously discussed are able to implement some of these requirements, none meet all of them.
