@@ -1,4 +1,4 @@
-## Motivation
+## Purpose
 
 The optimal measurement paradigms for both fast-neural EIT and EIT of the head have not yet been established and different experiments can have different requirements, table \ref{table_requirements}. As such, any EIT system used in these applications should be as versatile as possible, to allow for a range of experimental methods to be investigated. The motivation behind this work was to develop an EIT system which allows for maximum experimental flexibility, satisfying the following criteria:
 
