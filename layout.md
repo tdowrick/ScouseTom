@@ -13,7 +13,7 @@ Voltage_recording_The_requirements_for__.md
 Controller_and_Switch_network_The__.md
 figures/ST Overview/ST Overview.png
 figures/Blocks/blocks.png
-begin_table_centering_caption_Summary__.tex
+19_2_begin_table_centering__.tex
 Methods_System_Characterisation_need_a__.md
 Data_presentation_each_measurement_is__.md
 Results_System_Characterisation_For_resistor__.md
