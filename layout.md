@@ -6,7 +6,7 @@ begin_table_centering_caption_Example__.tex
 Purpose_The_motivation_behind_this__.md
 EIT_applications_At_present_there__.md
 figures/Modes/Modes.png
-Experimental_Design_Say_why_we__.md
+Experimental_Design_Experiments_were_c__.md
 System_Design_The_ScouseTom_EIT__.md
 subsection_Current_source_The_Keithley__.tex
 Voltage_recording_The_requirements_for__.md
