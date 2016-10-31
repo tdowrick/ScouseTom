@@ -1,6 +1,6 @@
-# Experimental Design
+## Experimental Design
 
-Experiments were c
+First, experiments were carried out in resistor phantoms to characterise the system, and to provide results with which to compare to other existing systems. 
 
 
 
