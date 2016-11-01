@@ -4,7 +4,7 @@ First, experiments were carried out in resistor phantoms to characterise the sys
 
 The initial resistor phantom experiments were conducted to characterise the performance of the system across frequency, and to obtain measures similar to those quoted for other EIT systems. Direct comparisons are made difficult as the exact testing conditions and analyses are not always explicitly stated, e.g. load used, which measurements were included and how many repetitions were used in calculations. Therefore, we have chosen to use phantoms and measurement paradigms which represent realistic usage in brain EIT applications. Specifically, the injected current amplitudes complied with IEC 60601-1 \cite{IEC} safety limits, the number of measurements and the averaging time was chosen to match those used to collect data for real EIT reconstructions. Thus the results represent the realistic best case performance of the system  in a animal or human experiment, as opposed to the maximum achievable on a test bench. 
 
-The parameters of interest in these resistor phantom experiments were 
+The parameters of interest in these resistor phantom experiments were the the noise and Signal to Noise Ratio (SNR) across the entire frequency range, and 
 
 
 
