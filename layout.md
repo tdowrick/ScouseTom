@@ -10,8 +10,8 @@ Experimental_Design_First_experiments_were__.md
 System_Design_The_ScouseTom_EIT__.md
 subsection_Current_source_The_Keithley__.tex
 Voltage_recording_The_requirements_for__.md
-Controller_and_Switch_network_The__.md
 begin_table_centering_caption_Summary__.tex
+Controller_and_Switch_network_The__.md
 figures/ST Overview/ST Overview.png
 figures/Blocks/blocks.png
 Methods_System_Characterisation_need_a__.md
