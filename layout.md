@@ -7,7 +7,6 @@ Purpose_The_motivation_behind_this__.md
 EIT_applications_At_present_there__.md
 figures/Modes/Modes.png
 subsection_Experimental_Design_First_experiments__.tex
-Experimental_Design_First_experiments_were__.md
 System_Design_The_ScouseTom_EIT__.md
 figures/ST Overview/ST Overview.png
 subsection_Current_source_The_Keithley__.tex
