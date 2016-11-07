@@ -17,6 +17,7 @@ figures/Blocks/blocks.png
 Methods_System_Characterisation_need_a__.md
 Data_presentation_each_measurement_is__.md
 Results_System_Characterisation_For_resistor__.md
+Experimental_Data_Each_of_the__.tex
 figures/export_fig_out/SNR.png
 figures/freq_resp/freq_resp.png
 figures/Haemo/Stroke_data_example.png
