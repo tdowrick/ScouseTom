@@ -11,6 +11,7 @@ System_Design_The_ScouseTom_EIT__.md
 figures/ST Overview/ST Overview.png
 subsection_Current_source_The_Keithley__.tex
 Voltage_recording_The_requirements_for__.md
+Voltage_recording_The_requirements_for__.tex
 begin_table_centering_caption_Summary__.tex
 Controller_and_Switch_network_The__.md
 figures/Blocks/blocks.png
