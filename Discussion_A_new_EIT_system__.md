@@ -9,6 +9,8 @@ Experiments in a resistor phantom with realistic loads demonstrated an SNR of 77
 
 expanded comparison to other systems. we expect lower SNR based on testing paradigm
 
+cardiff phantom appears noisier
+
 
 
 
