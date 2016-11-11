@@ -20,8 +20,8 @@ subsection_Experimental_Data_Each_of__1.tex
 subsection_Data_presentation_each_measurement__.tex
 begin_table_begin_tabular_c__.tex
 section_Results_subsection_Resistor_Phantom__.tex
-subsection_Resistor_Phantom_Frequency_response__.tex
 figures/export_fig_out/SNR.png
+subsection_Resistor_Phantom_Frequency_response__.tex
 subsection_Experimental_Data_Each_of__.tex
 figures/freq_resp/freq_resp.png
 figures/Haemo/Stroke_data_example.png
