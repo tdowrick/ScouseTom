@@ -22,8 +22,8 @@ begin_table_begin_tabular_c__.tex
 section_Results_subsection_Resistor_Phantom__.tex
 figures/export_fig_out/SNR.png
 subsection_Resistor_Phantom_Frequency_response__.tex
-subsection_Experimental_Data_Each_of__.tex
 figures/freq_resp/freq_resp.png
+subsection_Experimental_Data_Each_of__.tex
 figures/Haemo/Stroke_data_example.png
 figures/EP_dz/EP_dz.png
 figures/mayorec.0006/q1.png
