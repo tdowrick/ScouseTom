@@ -27,9 +27,9 @@ subsection_Experimental_Data_Each_of__.tex
 figures/Haemo/Stroke_data_example.png
 subsubsection_Triggered_Despite_the_4__.tex
 figures/EP_dz/EP_dz.png
+figures/mayorec.0006/q1.png
 subsubsection_Multifrequency_The_variation_in__.tex
 subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
-figures/mayorec.0006/q1.png
 figures/Patient_freq_resp/Patient_freq_resp.png
 figures/Impedance_spectrum/Impedance_spectrum.png
 Discussion_A_new_EIT_system__.md
