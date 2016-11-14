@@ -5,11 +5,16 @@ To evaluate the system experimentally and clinically, experiments were performed
 \subsubsection{Scalp electrode preparation}
 All recordings on the human scalp were performed using 32 commercial EEG electrodes (EasyCap, Germany), using the configuration described by \citet{tidswell2001three}, which includes 21 locations from the EEG 10-20 standard \cite{Jasper1958} and 11 additional electrodes. For these experiments, the locations were updated to match the nearest equivalents in either the 10-10 or 10-5 extensions \cite{Oostenveld2001}. Each electrode site was first cleaned with surgical spirit, then abraded using Nuprep gel (Weaver and Co., USA), with the electrode finally affixes using Elefix conductive paste (Nihon Kohden, Japan). 
 
-\subsubsection{Image Reconstruction}
+\subsubsection{EIT Reconstruction}
+When necessary, EIT images were reconstructed using the same methodology used in other studies by the UCL group \cite{Dowrick_2016,Aristovich_2016,Aristovich_2014}. First the `forward problem' and sensitivity matrix was calculated using the Parallel EIT Solver \cite{Jehl2014}, in a c. 4 millions element tetrahedral mesh. The linear inverse solution obtained using zeroth-order Tikhonov regularisation, with the hyperparameter $\lambda$ chosen through cross-validation. 
+
+
 blah
 
+using the methodology outlined in \cite{Aristovich_2014}.
 
 
+EIT images were produced using a 0th order Tikhonov algorithm on a 4 million element mesh of a generic rat skull [give ref and should introduce the image recon and stats used under exptl design section].
 
 
 
