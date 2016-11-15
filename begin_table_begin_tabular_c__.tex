@@ -1,9 +1,15 @@
-\begin{table} 
-    \begin{tabular}{ c c c c }
-        asd & ad &  &  \\ 
-         &  &  &  \\ 
-         & asd & asd &  \\ 
-         &  &  &  \\ 
-    \end{tabular} 
-    \caption{table overview} 
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{llllll}
+\cline{2-6}
+\multicolumn{1}{l|}{}                                                       & \multicolumn{1}{c|}{Experiment}                                   & \multicolumn{1}{c|}{Current $\mu$A} & \multicolumn{1}{c|}{Frequency Hz} & \multicolumn{1}{c|}{EEG System} & \multicolumn{1}{c|}{Measurements} \\ \cline{2-6} 
+\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Resistor\\ Phantom\end{tabular}} & \begin{tabular}[c]{@{}l@{}}system\\ characterisation\end{tabular} &                                     &                                   &                                 &                                   \\
+                                                                            & \begin{tabular}[c]{@{}l@{}}frequency\\ response\end{tabular}      &                                     &                                   &                                 &                                   \\
+                                                                            &                                                                   &                                     &                                   &                                 &                                   \\
+                                                                            &                                                                   &                                     &                                   &                                 &                                  
+\end{tabular}
 \end{table}
