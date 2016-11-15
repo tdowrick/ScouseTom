@@ -35,7 +35,7 @@ subsubsection_Triggered_averaging_rat_somatosensory__1.tex
 figures/EP_dz/EP_dz.png
 label_EPDZ_Impedance_changes_in__.tex
 figures/mayorec.0006/q1.png
-subsubsection_Multifrequency_The_variation_in__.tex
+subsubsection_Multifrequency_scalp_recordings_The__.tex
 figures/Patient_freq_resp/Patient_freq_resp.png
 subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
 figures/Impedance_spectrum/Impedance_spectrum.png
