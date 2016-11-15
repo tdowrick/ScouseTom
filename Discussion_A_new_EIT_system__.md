@@ -28,6 +28,11 @@ noise in trig same as others - system not limit
 Despite the 4-fold increase in bandwidth and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels.
  thus meeting the criteria outlined in section \ref{motivation}.
 
+Images obtained previously with a 32 channel system by \citet{Aristovich_2016} with mechanical stimulation of the rat whisker which were found to be in good agreement with established literature, and cross validated with other imaging techniques both in initial onset \cite{armstrong1991thalamo}, and spread of activity \cite{petersen2007functional}. Whilst cross validation was not performed in this study, the literature is equally well established regarding forepaw stimulation, to which these images are in good agreement \cite{peeters2001comparing} \cite{masamoto2007relationship} \cite{lowe2007small}.
+
+
+
+
 
 ## Technical issues
 The use of EEG amplifiers for voltage recording limits the maximum frequency to 20kHz, which is sufficient for fast neural EIT, but may not be sufficient for other EIT applications. Additionally, the BioSemi and actiCHamp systems implement hardware antialiasing filters, which causes a reduced gain at higher frequencies \ref{freqresp}. Given that the frequency response of the gain is known, it can easily be accounted for when using multi-frequency data.
