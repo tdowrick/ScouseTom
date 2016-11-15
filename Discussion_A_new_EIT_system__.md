@@ -10,7 +10,13 @@ Experiments in a resistor phantom with realistic loads demonstrated an SNR of 77
 expanded comparison to other systems. we expect lower SNR based on testing paradigm
 
 cardiff phantom appears noisier
+These arise predominantly from temperature changes within the current source, and variations in power supply voltage.
 
+and noise drifts increase from resistor phantom to human - physilogical noise dominates
+
+RE as good as KHU and others
+
+noise in trig same as others - system not limit
 
 
 
