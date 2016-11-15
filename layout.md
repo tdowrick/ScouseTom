@@ -38,6 +38,6 @@ figures/mayorec.0006/q1.png
 subsubsection_Multifrequency_scalp_recordings_The__.tex
 figures/Patient_freq_resp/Patient_freq_resp.png
 subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
-figures/Impedance_spectrum/Impedance_spectrum.png
+figures/Impedance_spectrum/Rat_spec.png
 Discussion_A_new_EIT_system__.md
 Appendix_Hardware_Software_Resources_All__.md
