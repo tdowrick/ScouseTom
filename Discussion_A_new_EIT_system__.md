@@ -26,7 +26,7 @@ noise in trig same as others - system not limit
 
 
 Despite the 4-fold increase in bandwidth and consequent noise increase, the performance of the ScouseTom system is comparable to that of previous systems \cite{Oh2011} with 0.37 $\mu$V $\pm$ 0.048 $\mu$V noise across all channels.
-
+ thus meeting the criteria outlined in section \ref{motivation}.
 
 
 ## Technical issues
