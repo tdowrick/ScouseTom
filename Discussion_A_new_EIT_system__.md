@@ -37,11 +37,4 @@ The decrease in average SNR compared to the recordings in subjects in section \r
 
 These results were consistent with previous studies in the area \cite{Ranck_1963}, \cite{Logothetis_2007}.
 
-## Technical issues
-The use of EEG amplifiers for voltage recording limits the maximum frequency to 20kHz, which is sufficient for fast neural EIT, but may not be sufficient for other EIT applications. Additionally, the BioSemi and actiCHamp systems implement hardware antialiasing filters, which causes a reduced gain at higher frequencies \ref{freqresp}. Given that the frequency response of the gain is known, it can easily be accounted for when using multi-frequency data.
 
-Currently, the majority of the data processing is not performed in "real time", as a complete dataset must be saved to disk. However, as most EEG systems allow for streaming of data via TCP/IP, much of this analysis could be converted to process a single measurement at a time, thus enabling much of the capabilities of other commercial EIT systems.
-
-
-## Reproducibility and recommendations for use
-All of the hardware designs, PCB layouts and associated software have been made available (see Appendix) to allow interested parties to replicate and modify the system. The ScouseTom system is quick to reproduce, as all but two components are commercially available, and the bespoke PCBs are simple compared to those used in other research EIT systems. Within the UCL group, assembly and testing of a new system once all the parts have been acquired can be performed with a week. The major expense is the appropriate EEG system, with the current source and custom PCBs costing around a quarter of the two systems used in this study. Therefore, the additional cost to those already performing electro physiological experiments is minimal, as the system is compatible with  a large number of common state-of-the-art EEG systems. Thus this system greatly reduces the cost and complexity for those interested in including impedance measurements into their experiments.
