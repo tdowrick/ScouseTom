@@ -40,4 +40,5 @@ figures/Patient_freq_resp/Patient_freq_resp.png
 subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
 figures/Impedance_spectrum/Rat_spec.png
 Discussion_A_new_EIT_system__.md
+Reproducibility_and_recommendations_for_use__.tex
 Appendix_Hardware_Software_Resources_All__.md
