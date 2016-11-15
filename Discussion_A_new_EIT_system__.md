@@ -14,6 +14,11 @@ These arise predominantly from temperature changes within the current source, an
 
 and noise drifts increase from resistor phantom to human - physilogical noise dominates
 
+
+ The degradation of the SNR using scalp electrodes is in agreement with previous studies \cite{fabrizi2007analysis} which demonstrated system noise accounts for approximately 5 \%, with physiological noise dominating. As with the long term resistor phantom recordings, the drifts across the recordings reduced the equivalent SNR. Additionally, artefacts resulting from subject or electrode movement were present some recordings, further reducing the effective SNR in these cases.  
+
+
+
 RE as good as KHU and others
 
 noise in trig same as others - system not limit
