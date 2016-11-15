@@ -31,7 +31,7 @@ subsection_Experimental_Data_Each_of__.tex
 figures/Haemo/Stroke_data_example.png
 figures/rat timeseries/rat timeseries.png
 subsubsection_Time_difference_scalp_recordings__.tex
-subsubsection_Triggered_Despite_the_4__.tex
+subsubsection_Triggered_averaging_rat_somatosensory__1.tex
 figures/EP_dz/EP_dz.png
 figures/mayorec.0006/q1.png
 subsubsection_Multifrequency_The_variation_in__.tex
