@@ -32,7 +32,7 @@ Images obtained previously with a 32 channel system by \citet{Aristovich_2016} w
 
 
 
-
+The decrease in average SNR compared to the recordings in subjects in section \ref{scalp} is largely a result of a greater prevalence of motion artefacts from patient movement. 
 
 ## Technical issues
 The use of EEG amplifiers for voltage recording limits the maximum frequency to 20kHz, which is sufficient for fast neural EIT, but may not be sufficient for other EIT applications. Additionally, the BioSemi and actiCHamp systems implement hardware antialiasing filters, which causes a reduced gain at higher frequencies \ref{freqresp}. Given that the frequency response of the gain is known, it can easily be accounted for when using multi-frequency data.
