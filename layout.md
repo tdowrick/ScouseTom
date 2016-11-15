@@ -12,7 +12,7 @@ figures/ST Overview/ST Overview.png
 subsection_Current_source_The_Keithley__.tex
 subsection_Voltage_recording_The_requirements__.tex
 begin_table_centering_caption_Summary__.tex
-subsection_Controller_and_Switch_network__.tex
+subsection_Controller_and_switch_network__.tex
 figures/Blocks/blocks.png
 subsection_Controller_software_Aside_from__.tex
 section_Methods_subsection_Resistor_phantom__.tex
