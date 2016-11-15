@@ -1,6 +1,3 @@
-# Discussion
-A new EIT system has been described which can be utilised in a range of experiments, particularly those involving EIT of the head or nerve. A key advantage of the ScouseTom system is the high level of control it offers over all aspects of the experimental process. This versatility is as a result of the stable performance of the hardware across frequency and load, in particular the current source, which largely removes the need for protocol specific calibration. This calibration has demonstrated substantial benefits with other EIT systems \cite{Hun_Wi_2014} \cite{khan}, but comes at the expense of adaptability.
-
 ## Summary of results
 The system meets with all the criteria described as a reconfigurable system adaptable to a variety of fast neural and brain EIT applications, whilst allowing for extensive control over the measurement setup and data processing. The utilisation of system in four main modes of operation has been outlined, facilitating EIT experiments into time imaging of stroke, multi-frequency stroke type classification, stimulation-triggered evoked potentials. 
 
