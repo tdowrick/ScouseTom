@@ -1,1 +1,1 @@
-\label{SNR} SNR (mean and st. dev) per 100 frames over entire 4 hour recording on Cardiff phantom
+\label{SNR} SNR (mean and st. dev) per 100 frames (n=363) over entire 4 hour recording on Cardiff phantom
