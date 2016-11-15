@@ -1,4 +1,4 @@
-\subsection{Controller and Switch network}
+\subsection{Controller and switch network}
 
 The system controller is based upon the Arduino development platform (Arduino LLC), specifically the Arduino Due, and two bespoke PCBs: a controller board or "shield" and a switch network board (highlighted in figure \ref{STOverview}). The controller shield contains the additional circuitry required for isolating the communication with other components of the system, namely RS232 and trigger-link connections with the current source, TTL with the EEG systems, and SPI connection to the switch networks. Due to the modular nature of the design and the variation of use cases, each connection was separately isolated from the mains supply, Figure \ref{STBlocks}, to ensure correct isolation regardless of experimental setup.
 
