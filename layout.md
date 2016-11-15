@@ -41,4 +41,5 @@ subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
 figures/Impedance_spectrum/Rat_spec.png
 Discussion_A_new_EIT_system__.md
 Reproducibility_and_recommendations_for_use__.tex
+Technical_issues_The_use_of__.tex
 Appendix_Hardware_Software_Resources_All__.md
