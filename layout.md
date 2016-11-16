@@ -29,7 +29,7 @@ subsection_Resistor_Phantom_Frequency_response__.tex
 figures/freq_resp/freq_resp.png
 subsection_Experimental_Data_Each_of__.tex
 figures/Haemo/Stroke_data_example.png
-figures/rat timeseries/rat_timeseries.png
+figures/rat timeseries/rat timeseries.png
 subsubsection_Time_difference_scalp_recordings__.tex
 subsubsection_Triggered_averaging_rat_somatosensory__1.tex
 figures/EP_dz/EP_dz.png
@@ -38,11 +38,10 @@ figures/mayorec.0006/q1.png
 subsubsection_Multifrequency_scalp_recordings_The__.tex
 figures/Patient_freq_resp/Patient_freq_resp.png
 subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
-figures/Impedance_spectrum/Impedance_spectrum.png
 section_Discussion_A_new_EIT__.tex
 subsection_System_characterisation_Experiments_in__.tex
-subsection_Characterisation_These_results_were__.tex
 subsection_Multifrequency_The_stability_of__.tex
+subsection_Characterisation_These_results_were__.tex
 subsection_Summary_of_results_The__.tex
 subsection_Technical_issues_The_use__.tex
 subsection_Reproducibility_and_recommendations_for__.tex
