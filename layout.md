@@ -29,6 +29,7 @@ subsection_Resistor_Phantom_Frequency_response__.tex
 figures/freq_resp/freq_resp.png
 subsection_Experimental_Data_Each_of__.tex
 figures/Haemo/Stroke_data_example.png
+figures/rat_timeseries/rat_timeseries.png
 figures/rat timeseries/rat timeseries.png
 subsubsection_Time_difference_scalp_recordings__.tex
 subsubsection_Triggered_averaging_rat_somatosensory__1.tex
