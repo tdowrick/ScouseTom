@@ -38,6 +38,7 @@ figures/mayorec.0006/q1.png
 subsubsection_Multifrequency_scalp_recordings_The__.tex
 figures/Patient_freq_resp/Patient_freq_resp.png
 subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
+figures/Impedance_spectrum/Rat_spec.png
 section_Discussion_A_new_EIT__.tex
 subsection_System_characterisation_Results_from__.tex
 subsection_Triggered_averaging_The_baseline__.tex
