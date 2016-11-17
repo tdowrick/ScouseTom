@@ -1,8 +1,8 @@
 \subsection{Design criteria and technical limitations}
 The design criteria set out initially were necessarily broad in order for the system to adapt to the four modes of operation successfully. The reconfigurability of the system meets the requirements for range of injected currents, electrode count, synchronisation and recording of simultaneous EEG signals. In doing so, the system has enabled experiments not previously possible, particularly when used in triggered averaging mode. The noise performance of the system was comparable to existing EIT systems, and was consistent across frequency. Whilst the  $<0.1$ \% noise criteria was met in epicortical recordings, the noise in scalp recordings was closer to $0.65$ \%, which may preclude imaging epileptic seizures using the system in its current form. However, use of a higher frequencies would allow for higher currents to be used, as well as reducing in band physiological noise. Therefore, future experiments should be performed with higher bandwidth systems such as the actiCHamp or g.tec HIamp, with a higher carrier frequency. 
 
-
-The use of EEG amplifiers for voltage recording limits the maximum frequency to 20kHz, which is sufficient for fast neural EIT, but may not be sufficient for other EIT applications. Additionally, the BioSemi and actiCHamp systems implement hardware antialiasing filters, which causes a reduced gain at higher frequencies, figure \ref{freqresp}. Given that the frequency response of the gain is known, it can easily be accounted for when using multi-frequency data. 
+By far the greatest limitation of this 
+The use of EEG amplifiers for voltage recording limits the maximum frequency to 20kHz, which is sufficient for fast neural EIT, but may not be sufficient for other EIT applications. 
 
 Currently, the majority of the data processing is not performed in "real time", as a complete dataset must be saved to disk. However, as most EEG systems allow for streaming of data via TCP/IP, much of this analysis could be converted to process a single measurement at a time, thus enabling much of the capabilities of other commercial EIT systems.
 
