@@ -1,3 +1,0 @@
-#System Design
-
-The ScouseTom EIT system, figure \ref{STOverview} comprises a commercial current source and EEG amplifier, alongside custom switching/control circuitry and software. The system allows for software control over all aspects of the EIT measurement setup e.g. protocol, injection duration, frequency, amplitude.  Time and frequency difference EIT data can be collected, at frequencies between 5Hz and 20kHz, with a frame rate > 100 per second achievable.
