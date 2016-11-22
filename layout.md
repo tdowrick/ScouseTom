@@ -5,7 +5,7 @@ With_the_exception_of_those__.tex
 begin_table_centering_caption_Example__.tex
 subsection_Purpose_The_motivation_behind__.tex
 EIT_applications_At_present_there__.md
-EIT_applications_At_present_there__.tex
+subsection_EIT_applications_At_present__.tex
 figures/Modes/Modes.png
 subsection_Experimental_Design_First_experiments__.tex
 System_Design_The_ScouseTom_EIT__.md
