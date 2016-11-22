@@ -7,7 +7,6 @@ subsection_Purpose_The_motivation_behind__.tex
 subsection_EIT_applications_Four_main__.tex
 figures/Modes/Modes.png
 subsection_Experimental_Design_Experiments_were__.tex
-System_Design_The_ScouseTom_EIT__.md
 section_System_Design_The_ScouseTom__.tex
 figures/ST Overview/ST Overview.png
 subsection_Current_source_The_Keithley__.tex
