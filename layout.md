@@ -3,7 +3,6 @@ section_Introduction_subsection_Electrical_Impedance__.tex
 begin_table_centering_caption_Existing__.tex
 With_the_exception_of_those__.tex
 begin_table_centering_caption_Example__.tex
-Purpose_The_motivation_behind_this__.md
 subsection_Purpose_The_motivation_behind__.tex
 EIT_applications_At_present_there__.md
 figures/Modes/Modes.png
