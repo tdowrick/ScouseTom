@@ -31,7 +31,6 @@ figures/freq_resp/freq_resp.png
 subsection_Time_difference_imaging_haemorrhage__.tex
 figures/Haemo/Stroke_data_example.png
 figures/rat_timeseries/rat_timeseries.png
-figures/rat timeseries/rat timeseries.png
 subsubsection_Time_difference_scalp_recordings__.tex
 subsubsection_Triggered_averaging_rat_somatosensory__1.tex
 figures/EP_dz/EP_dz.png
@@ -43,8 +42,8 @@ subsubsection_Impedance_Spectrum_Measurement_Healthy__.tex
 figures/Impedance_spectrum/Rat_spec.png
 section_Discussion_A_new_EIT__.tex
 subsection_System_characterisation_Results_from__.tex
-subsection_Triggered_averaging_The_baseline__.tex
 subsection_Time_difference_The_decrease__.tex
+subsection_Triggered_averaging_The_baseline__.tex
 subsection_Multifrequency_The_stability_of__.tex
 subsection_Characterisation_The_frequency_sweep__.tex
 subsection_Design_criteria_and_technical__.tex
