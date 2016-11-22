@@ -28,7 +28,7 @@ section_Results_subsection_Resistor_Phantom__.tex
 figures/export_fig_out/SNR.png
 subsection_Resistor_Phantom_Frequency_response__.tex
 figures/freq_resp/freq_resp.png
-subsection_Experimental_Data_Each_of__.tex
+subsection_Time_difference_imaging_haemorrhage__.tex
 figures/Haemo/Stroke_data_example.png
 figures/rat_timeseries/rat_timeseries.png
 figures/rat timeseries/rat timeseries.png
